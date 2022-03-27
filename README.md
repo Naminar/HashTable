@@ -1,1 +1,1 @@
-# HashTable{: .blue}
+# HashTable{.blue}

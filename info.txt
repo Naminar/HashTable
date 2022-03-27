@@ -1,4 +1,4 @@
-table น0
+table โ–0
 {
   sf - 1
   motherboard - 1
@@ -8,7 +8,7 @@ table น0
   arabia - 1
 }
 
-table น1
+table ยน1
 {
   thoroughly - 1
   theory - 1
@@ -21,7 +21,7 @@ table น1
   bronze - 1
 }
 
-table น2
+table ยน2
 {
   rides - 1
   previously - 1
@@ -34,7 +34,7 @@ table น2
   better - 1
 }
 
-table น3
+table ยน3
 {
   titled - 1
   sides - 1
@@ -50,7 +50,7 @@ table น3
   accommodations - 1
 }
 
-table น4
+table ยน4
 {
   titles - 1
   scientists - 1
@@ -64,7 +64,7 @@ table น4
   alternative - 1
 }
 
-table น5
+table ยน5
 {
   removable - 1
   murder - 1
@@ -73,7 +73,7 @@ table น5
   insight - 1
 }
 
-table น6
+table ยน6
 {
   talented - 1
   stripes - 1
@@ -92,7 +92,7 @@ table น6
   allowing - 1
 }
 
-table น7
+table ยน7
 {
   katrina - 1
   guards - 1
@@ -100,7 +100,7 @@ table น7
   bibliographic - 1
 }
 
-table น8
+table ยน8
 {
   temporarily - 1
   habitat - 1
@@ -110,7 +110,7 @@ table น8
   cemetery - 1
 }
 
-table น9
+table ยน9
 {
   sk - 1
   prophet - 1
@@ -124,7 +124,7 @@ table น9
   assume - 1
 }
 
-table น10
+table ยน10
 {
   trackback - 1
   speed - 1
@@ -135,7 +135,7 @@ table น10
   ds - 1
 }
 
-table น11
+table ยน11
 {
   thailand - 1
   strategic - 1
@@ -152,7 +152,7 @@ table น11
   browse - 1
 }
 
-table น12
+table ยน12
 {
   sacrifice - 1
   release - 1
@@ -170,7 +170,7 @@ table น12
   applications - 1
 }
 
-table น13
+table ยน13
 {
   tanzania - 1
   printable - 1
@@ -187,7 +187,7 @@ table น13
   amazing - 1
 }
 
-table น14
+table ยน14
 {
   magazines - 1
   false - 1
@@ -199,7 +199,7 @@ table น14
   approximately - 1
 }
 
-table น15
+table ยน15
 {
   television - 1
   promptly - 1
@@ -215,7 +215,7 @@ table น15
   afternoon - 1
 }
 
-table น16
+table ยน16
 {
   ne - 1
   jewellery - 1
@@ -228,7 +228,7 @@ table น16
   aruba - 1
 }
 
-table น17
+table ยน17
 {
   theme - 1
   strengths - 1
@@ -244,7 +244,7 @@ table น17
   consider - 1
 }
 
-table น18
+table ยน18
 {
   sexually - 1
   ratios - 1
@@ -252,7 +252,7 @@ table น18
   missions - 1
 }
 
-table น19
+table ยน19
 {
   these - 1
   maria - 1
@@ -261,7 +261,7 @@ table น19
   dimensions - 1
 }
 
-table น20
+table ยน20
 {
   situations - 1
   refresh - 1
@@ -273,7 +273,7 @@ table น20
   arrested - 1
 }
 
-table น21
+table ยน21
 {
   southampton - 1
   occurs - 1
@@ -288,7 +288,7 @@ table น21
   academic - 1
 }
 
-table น22
+table ยน22
 {
   statute - 1
   stating - 1
@@ -305,7 +305,7 @@ table น22
   establish - 1
 }
 
-table น23
+table ยน23
 {
   textbooks - 1
   singer - 1
@@ -320,7 +320,7 @@ table น23
   accepting - 1
 }
 
-table น24
+table ยน24
 {
   paying - 1
   patio - 1
@@ -336,7 +336,7 @@ table น24
   address - 1
 }
 
-table น25
+table ยน25
 {
   territories - 1
   stakeholders - 1
@@ -350,7 +350,7 @@ table น25
   assist - 1
 }
 
-table น26
+table ยน26
 {
   spouse - 1
   shaved - 1
@@ -366,7 +366,7 @@ table น26
   belts - 1
 }
 
-table น27
+table ยน27
 {
   throat - 1
   saying - 1
@@ -380,7 +380,7 @@ table น27
   asset - 1
 }
 
-table น28
+table ยน28
 {
   title - 1
   tattoo - 1
@@ -397,13 +397,13 @@ table น28
   cassette - 1
 }
 
-table น29
+table ยน29
 {
   saskatchewan - 1
   rl - 1
 }
 
-table น30
+table ยน30
 {
   sporting - 1
   intro - 1
@@ -411,7 +411,7 @@ table น30
   betting - 1
 }
 
-table น31
+table ยน31
 {
   surgery - 1
   surgeon - 1
@@ -421,7 +421,7 @@ table น31
   eligibility - 1
 }
 
-table น32
+table ยน32
 {
   spirit - 1
   proceed - 1
@@ -429,7 +429,7 @@ table น32
   haiti - 1
 }
 
-table น33
+table ยน33
 {
   personals - 1
   matters - 1
@@ -440,7 +440,7 @@ table น33
   attempts - 1
 }
 
-table น34
+table ยน34
 {
   split - 1
   sluts - 1
@@ -455,7 +455,7 @@ table น34
   fabric - 1
 }
 
-table น35
+table ยน35
 {
   those - 1
   there - 1
@@ -468,7 +468,7 @@ table น35
   acquire - 1
 }
 
-table น36
+table ยน36
 {
   specific - 1
   prostate - 1
@@ -478,7 +478,7 @@ table น36
   athletics - 1
 }
 
-table น37
+table ยน37
 {
   surname - 1
   michel - 1
@@ -486,7 +486,7 @@ table น37
   analysis - 1
 }
 
-table น38
+table ยน38
 {
   staying - 1
   station - 1
@@ -501,7 +501,7 @@ table น38
   although - 1
 }
 
-table น39
+table ยน39
 {
   sterling - 1
   smoking - 1
@@ -522,7 +522,7 @@ table น39
   arthritis - 1
 }
 
-table น40
+table ยน40
 {
   squirt - 1
   musical - 1
@@ -539,7 +539,7 @@ table น40
   apache - 1
 }
 
-table น41
+table ยน41
 {
   symphony - 1
   recreational - 1
@@ -554,7 +554,7 @@ table น41
   abroad - 1
 }
 
-table น42
+table ยน42
 {
   provinces - 1
   olive - 1
@@ -563,7 +563,7 @@ table น42
   controlling - 1
 }
 
-table น43
+table ยน43
 {
   toolbox - 1
   spiritual - 1
@@ -577,14 +577,14 @@ table น43
   freelance - 1
 }
 
-table น44
+table ยน44
 {
   laura - 1
   follows - 1
   cradle - 1
 }
 
-table น45
+table ยน45
 {
   rational - 1
   og - 1
@@ -593,7 +593,7 @@ table น45
   enhancing - 1
 }
 
-table น46
+table ยน46
 {
   motivation - 1
   mercedes - 1
@@ -604,7 +604,7 @@ table น46
   alliance - 1
 }
 
-table น47
+table ยน47
 {
   therapeutic - 1
   proprietary - 1
@@ -613,14 +613,14 @@ table น47
   accessible - 1
 }
 
-table น48
+table ยน48
 {
   teenage - 1
   populations - 1
   cf - 1
 }
 
-table น50
+table ยน50
 {
   starts - 1
   shadows - 1
@@ -632,7 +632,7 @@ table น50
   adult - 1
 }
 
-table น51
+table ยน51
 {
   singing - 1
   photographers - 1
@@ -642,7 +642,7 @@ table น51
   assistant - 1
 }
 
-table น52
+table ยน52
 {
   significance - 1
   searching - 1
@@ -662,7 +662,7 @@ table น52
   ambient - 1
 }
 
-table น53
+table ยน53
 {
   supplier - 1
   relief - 1
@@ -670,7 +670,7 @@ table น53
   independently - 1
 }
 
-table น54
+table ยน54
 {
   retailer - 1
   literacy - 1
@@ -680,7 +680,7 @@ table น54
   benefits - 1
 }
 
-table น55
+table ยน55
 {
   specifications - 1
   se - 1
@@ -688,7 +688,7 @@ table น55
   commissioners - 1
 }
 
-table น56
+table ยน56
 {
   supplied - 1
   renaissance - 1
@@ -702,7 +702,7 @@ table น56
   betty - 1
 }
 
-table น57
+table ยน57
 {
   returned - 1
   phoenix - 1
@@ -713,7 +713,7 @@ table น57
   adopt - 1
 }
 
-table น58
+table ยน58
 {
   supplies - 1
   straight - 1
@@ -731,7 +731,7 @@ table น58
   added - 1
 }
 
-table น59
+table ยน59
 {
   specified - 1
   movie - 1
@@ -746,7 +746,7 @@ table น59
   advert - 1
 }
 
-table น60
+table ยน60
 {
   respect - 1
   pending - 1
@@ -760,7 +760,7 @@ table น60
   adopted - 1
 }
 
-table น61
+table ยน61
 {
   specifies - 1
   smoke - 1
@@ -775,7 +775,7 @@ table น61
   color - 1
 }
 
-table น62
+table ยน62
 {
   reduces - 1
   reduced - 1
@@ -794,7 +794,7 @@ table น62
   beatles - 1
 }
 
-table น63
+table ยน63
 {
   smile - 1
   prospect - 1
@@ -805,7 +805,7 @@ table น63
   arrangement - 1
 }
 
-table น64
+table ยน64
 {
   robots - 1
   known - 1
@@ -818,7 +818,7 @@ table น64
   barriers - 1
 }
 
-table น65
+table ยน65
 {
   stations - 1
   reasonable - 1
@@ -832,7 +832,7 @@ table น65
   automated - 1
 }
 
-table น66
+table ยน66
 {
   third - 1
   shown - 1
@@ -848,7 +848,7 @@ table น66
   algeria - 1
 }
 
-table น67
+table ยน67
 {
   thing - 1
   singh - 1
@@ -859,7 +859,7 @@ table น67
   carlos - 1
 }
 
-table น68
+table ยน68
 {
   pills - 1
   medication - 1
@@ -870,7 +870,7 @@ table น68
   albuquerque - 1
 }
 
-table น69
+table ยน69
 {
   skype - 1
   multimedia - 1
@@ -880,7 +880,7 @@ table น69
   age - 1
 }
 
-table น70
+table ยน70
 {
   slope - 1
   situation - 1
@@ -891,7 +891,7 @@ table น70
   andrea - 1
 }
 
-table น71
+table ยน71
 {
   shaft - 1
   marketplace - 1
@@ -902,7 +902,7 @@ table น71
   breeds - 1
 }
 
-table น72
+table ยน72
 {
   sphere - 1
   sociology - 1
@@ -914,7 +914,7 @@ table น72
   bonus - 1
 }
 
-table น73
+table ยน73
 {
   forgot - 1
   court - 1
@@ -924,7 +924,7 @@ table น73
   attention - 1
 }
 
-table น74
+table ยน74
 {
   shops - 1
   shoot - 1
@@ -940,7 +940,7 @@ table น74
   carmen - 1
 }
 
-table น75
+table ยน75
 {
   syndicate - 1
   specialists - 1
@@ -952,7 +952,7 @@ table น75
   breasts - 1
 }
 
-table น76
+table ยน76
 {
   tions - 1
   slave - 1
@@ -963,7 +963,7 @@ table น76
   alaska - 1
 }
 
-table น77
+table ยน77
 {
   suspect - 1
   preparation - 1
@@ -975,7 +975,7 @@ table น77
   electrical - 1
 }
 
-table น78
+table ยน78
 {
   reunion - 1
   polar - 1
@@ -989,7 +989,7 @@ table น78
   charter - 1
 }
 
-table น79
+table ยน79
 {
   sunset - 1
   periodic - 1
@@ -997,7 +997,7 @@ table น79
   amenities - 1
 }
 
-table น80
+table ยน80
 {
   pizza - 1
   orbit - 1
@@ -1012,7 +1012,7 @@ table น80
   appeals - 1
 }
 
-table น81
+table ยน81
 {
   partially - 1
   me - 1
@@ -1028,7 +1028,7 @@ table น81
   biography - 1
 }
 
-table น82
+table ยน82
 {
   shows - 1
   rings - 1
@@ -1043,7 +1043,7 @@ table น82
   condition - 1
 }
 
-table น83
+table ยน83
 {
   throw - 1
   three - 1
@@ -1061,7 +1061,7 @@ table น83
   academy - 1
 }
 
-table น84
+table ยน84
 {
   ti - 1
   territory - 1
@@ -1075,7 +1075,7 @@ table น84
   ada - 1
 }
 
-table น85
+table ยน85
 {
   spider - 1
   negotiations - 1
@@ -1088,7 +1088,7 @@ table น85
   attended - 1
 }
 
-table น86
+table ยน86
 {
   resumes - 1
   pie - 1
@@ -1101,7 +1101,7 @@ table น86
   bought - 1
 }
 
-table น87
+table ยน87
 {
   televisions - 1
   symbols - 1
@@ -1116,7 +1116,7 @@ table น87
   advertising - 1
 }
 
-table น88
+table ยน88
 {
   thumbnail - 1
   tb - 1
@@ -1141,7 +1141,7 @@ table น88
   ads - 1
 }
 
-table น89
+table ยน89
 {
   sie - 1
   securities - 1
@@ -1158,7 +1158,7 @@ table น89
   assembly - 1
 }
 
-table น90
+table ยน90
 {
   spank - 1
   spain - 1
@@ -1179,7 +1179,7 @@ table น90
   add - 1
 }
 
-table น91
+table ยน91
 {
   surveillance - 1
   mod - 1
@@ -1189,7 +1189,7 @@ table น91
   ccd - 1
 }
 
-table น92
+table ยน92
 {
   tie - 1
   threshold - 1
@@ -1213,7 +1213,7 @@ table น92
   biodiversity - 1
 }
 
-table น93
+table ยน93
 {
   secretariat - 1
   robertson - 1
@@ -1231,7 +1231,7 @@ table น93
   bed - 1
 }
 
-table น94
+table ยน94
 {
   pod - 1
   pg - 1
@@ -1246,7 +1246,7 @@ table น94
   began - 1
 }
 
-table น95
+table ยน95
 {
   remedies - 1
   overhead - 1
@@ -1261,7 +1261,7 @@ table น95
   ago - 1
 }
 
-table น96
+table ยน96
 {
   robust - 1
   range - 1
@@ -1283,7 +1283,7 @@ table น96
   archive - 1
 }
 
-table น97
+table ยน97
 {
   may - 1
   kay - 1
@@ -1299,7 +1299,7 @@ table น97
   cleveland - 1
 }
 
-table น98
+table ยน98
 {
   traditional - 1
   status - 1
@@ -1320,7 +1320,7 @@ table น98
   attraction - 1
 }
 
-table น99
+table ยน99
 {
   sig - 1
   mat - 1
@@ -1335,7 +1335,7 @@ table น99
   comparison - 1
 }
 
-table น100
+table ยน100
 {
   trademarks - 1
   russell - 1
@@ -1353,7 +1353,7 @@ table น100
   hacker - 1
 }
 
-table น101
+table ยน101
 {
   soldier - 1
   ski - 1
@@ -1370,7 +1370,7 @@ table น101
   algorithms - 1
 }
 
-table น102
+table ยน102
 {
   static - 1
   sensitive - 1
@@ -1387,7 +1387,7 @@ table น102
   agreed - 1
 }
 
-table น103
+table ยน103
 {
   plc - 1
   perceived - 1
@@ -1400,7 +1400,7 @@ table น103
   agent - 1
 }
 
-table น104
+table ยน104
 {
   restructuring - 1
   pit - 1
@@ -1422,7 +1422,7 @@ table น104
   aquarium - 1
 }
 
-table น105
+table ยน105
 {
   motorcycle - 1
   cox - 1
@@ -1434,7 +1434,7 @@ table น105
   bumper - 1
 }
 
-table น106
+table ยน106
 {
   tit - 1
   spyware - 1
@@ -1462,7 +1462,7 @@ table น106
   apparent - 1
 }
 
-table น107
+table ยน107
 {
   thu - 1
   the - 1
@@ -1472,7 +1472,7 @@ table น107
   asking - 1
 }
 
-table น108
+table ยน108
 {
   pix - 1
   ons - 1
@@ -1489,7 +1489,7 @@ table น108
   authentic - 1
 }
 
-table น109
+table ยน109
 {
   sku - 1
   rip - 1
@@ -1506,7 +1506,7 @@ table น109
   democrats - 1
 }
 
-table น110
+table ยน110
 {
   tip - 1
   six - 1
@@ -1527,7 +1527,7 @@ table น110
   acquisition - 1
 }
 
-table น111
+table ยน111
 {
   thy - 1
   sms - 1
@@ -1537,7 +1537,7 @@ table น111
   aw - 1
 }
 
-table น112
+table ยน112
 {
   targets - 1
   rim - 1
@@ -1556,7 +1556,7 @@ table น112
   appreciate - 1
 }
 
-table น113
+table ยน113
 {
   suitable - 1
   sim - 1
@@ -1567,7 +1567,7 @@ table น113
   interior - 1
 }
 
-table น114
+table ยน114
 {
   til - 1
   sir - 1
@@ -1580,7 +1580,7 @@ table น114
   hungary - 1
 }
 
-table น115
+table ยน115
 {
   statistical - 1
   prevention - 1
@@ -1592,7 +1592,7 @@ table น115
   cargo - 1
 }
 
-table น116
+table ยน116
 {
   tin - 1
   tim - 1
@@ -1614,7 +1614,7 @@ table น116
   berkeley - 1
 }
 
-table น117
+table ยน117
 {
   sky - 1
   researchers - 1
@@ -1628,7 +1628,7 @@ table น117
   biblical - 1
 }
 
-table น118
+table ยน118
 {
   tmp - 1
   processing - 1
@@ -1645,7 +1645,7 @@ table น118
   anymore - 1
 }
 
-table น119
+table ยน119
 {
   subtle - 1
   specializing - 1
@@ -1660,7 +1660,7 @@ table น119
   assess - 1
 }
 
-table น120
+table ยน120
 {
   panic - 1
   obvious - 1
@@ -1674,7 +1674,7 @@ table น120
   attach - 1
 }
 
-table น121
+table ยน121
 {
   revolutionary - 1
   returning - 1
@@ -1683,7 +1683,7 @@ table น121
   codes - 1
 }
 
-table น122
+table ยน122
 {
   ticket - 1
   tamil - 1
@@ -1696,7 +1696,7 @@ table น122
   balance - 1
 }
 
-table น123
+table ยน123
 {
   summer - 1
   sandy - 1
@@ -1713,7 +1713,7 @@ table น123
   assists - 1
 }
 
-table น124
+table ยน124
 {
   tales - 1
   suggestion - 1
@@ -1724,7 +1724,7 @@ table น124
   circuits - 1
 }
 
-table น126
+table ยน126
 {
   sleep - 1
   retailers - 1
@@ -1740,7 +1740,7 @@ table น126
   budgets - 1
 }
 
-table น127
+table ยน127
 {
   snapshot - 1
   sexcam - 1
@@ -1753,7 +1753,7 @@ table น127
   administered - 1
 }
 
-table น128
+table ยน128
 {
   scheduling - 1
   piece - 1
@@ -1769,7 +1769,7 @@ table น128
   becoming - 1
 }
 
-table น129
+table ยน129
 {
   modem - 1
   ireland - 1
@@ -1779,7 +1779,7 @@ table น129
   dependent - 1
 }
 
-table น130
+table ยน130
 {
   theology - 1
   refers - 1
@@ -1793,7 +1793,7 @@ table น130
   alleged - 1
 }
 
-table น131
+table ยน131
 {
   thesis - 1
   sleeping - 1
@@ -1809,7 +1809,7 @@ table น131
   announcement - 1
 }
 
-table น132
+table ยน132
 {
   titten - 1
   reggae - 1
@@ -1823,13 +1823,13 @@ table น132
   afterwards - 1
 }
 
-table น133
+table ยน133
 {
   scheme - 1
   minolta - 1
 }
 
-table น134
+table ยน134
 {
   thumbzilla - 1
   represents - 1
@@ -1842,7 +1842,7 @@ table น134
   beaches - 1
 }
 
-table น135
+table ยน135
 {
   spell - 1
   seminar - 1
@@ -1853,7 +1853,7 @@ table น135
   anderson - 1
 }
 
-table น136
+table ยน136
 {
   matter - 1
   lucky - 1
@@ -1864,7 +1864,7 @@ table น136
   accompanied - 1
 }
 
-table น137
+table ยน137
 {
   museum - 1
   legislative - 1
@@ -1877,7 +1877,7 @@ table น137
   authors - 1
 }
 
-table น138
+table ยน138
 {
   slovak - 1
   rapidly - 1
@@ -1889,14 +1889,14 @@ table น138
   angels - 1
 }
 
-table น139
+table ยน139
 {
   lauren - 1
   convenience - 1
   citizenship - 1
 }
 
-table น140
+table ยน140
 {
   programme - 1
   permits - 1
@@ -1906,7 +1906,7 @@ table น140
   borders - 1
 }
 
-table น141
+table ยน141
 {
   therefore - 1
   prayer - 1
@@ -1917,7 +1917,7 @@ table น141
   attempted - 1
 }
 
-table น142
+table ยน142
 {
   representatives - 1
   kilometers - 1
@@ -1926,7 +1926,7 @@ table น142
   beijing - 1
 }
 
-table น143
+table ยน143
 {
   reservoir - 1
   removing - 1
@@ -1935,7 +1935,7 @@ table น143
   aging - 1
 }
 
-table น144
+table ยน144
 {
   regulated - 1
   pl - 1
@@ -1945,7 +1945,7 @@ table น144
   halfcom - 1
 }
 
-table น145
+table ยน145
 {
   sara - 1
   relating - 1
@@ -1954,7 +1954,7 @@ table น145
   comply - 1
 }
 
-table น146
+table ยน146
 {
   philip - 1
   immigration - 1
@@ -1964,7 +1964,7 @@ table น146
   contemporary - 1
 }
 
-table น147
+table ยน147
 {
   simple - 1
   moral - 1
@@ -1974,7 +1974,7 @@ table น147
   accordingly - 1
 }
 
-table น148
+table ยน148
 {
   reconstruction - 1
   park - 1
@@ -1982,7 +1982,7 @@ table น148
   distributed - 1
 }
 
-table น149
+table ยน149
 {
   sigma - 1
   jean - 1
@@ -1990,7 +1990,7 @@ table น149
   ashley - 1
 }
 
-table น150
+table ยน150
 {
   sponsorship - 1
   rather - 1
@@ -2006,7 +2006,7 @@ table น150
   angela - 1
 }
 
-table น151
+table ยน151
 {
   positive - 1
   pattern - 1
@@ -2017,7 +2017,7 @@ table น151
   broker - 1
 }
 
-table น152
+table ยน152
 {
   th - 1
   rc - 1
@@ -2032,7 +2032,7 @@ table น152
   atmospheric - 1
 }
 
-table น153
+table ยน153
 {
   sq - 1
   mutual - 1
@@ -2044,7 +2044,7 @@ table น153
   cancel - 1
 }
 
-table น154
+table ยน154
 {
   shadow - 1
   sensitivity - 1
@@ -2058,7 +2058,7 @@ table น154
   auctions - 1
 }
 
-table น155
+table ยน155
 {
   things - 1
   simply - 1
@@ -2073,7 +2073,7 @@ table น155
   admin - 1
 }
 
-table น156
+table ยน156
 {
   tape - 1
   preceding - 1
@@ -2088,7 +2088,7 @@ table น156
   cognitive - 1
 }
 
-table น157
+table ยน157
 {
   southern - 1
   schema - 1
@@ -2098,7 +2098,7 @@ table น157
   hugh - 1
 }
 
-table น158
+table ยน158
 {
   river - 1
   para - 1
@@ -2113,7 +2113,7 @@ table น158
   additions - 1
 }
 
-table น159
+table ยน159
 {
   product - 1
   planets - 1
@@ -2123,7 +2123,7 @@ table น159
   ceremony - 1
 }
 
-table น160
+table ยน160
 {
   shine - 1
   renewable - 1
@@ -2133,7 +2133,7 @@ table น160
   attacks - 1
 }
 
-table น161
+table ยน161
 {
   produce - 1
   plaza - 1
@@ -2141,7 +2141,7 @@ table น161
   architectural - 1
 }
 
-table น162
+table ยน162
 {
   theft - 1
   stocks - 1
@@ -2152,7 +2152,7 @@ table น162
   choose - 1
 }
 
-table น163
+table ยน163
 {
   thong - 1
   riverside - 1
@@ -2165,7 +2165,7 @@ table น163
   bandwidth - 1
 }
 
-table น164
+table ยน164
 {
   regime - 1
   refine - 1
@@ -2178,7 +2178,7 @@ table น164
   apps - 1
 }
 
-table น165
+table ยน165
 {
   lloyd - 1
   initial - 1
@@ -2194,7 +2194,7 @@ table น165
   accomplished - 1
 }
 
-table น166
+table ยน166
 {
   prototype - 1
   nutrition - 1
@@ -2208,7 +2208,7 @@ table น166
   amplifier - 1
 }
 
-table น167
+table ยน167
 {
   seeing - 1
   plays - 1
@@ -2219,7 +2219,7 @@ table น167
   adjacent - 1
 }
 
-table น168
+table ยน168
 {
   tabs - 1
   swingers - 1
@@ -2230,13 +2230,13 @@ table น168
   bo - 1
 }
 
-table น169
+table ยน169
 {
   implies - 1
   albert - 1
 }
 
-table น170
+table ยน170
 {
   spoken - 1
   ships - 1
@@ -2248,7 +2248,7 @@ table น170
   advantages - 1
 }
 
-table น171
+table ยน171
 {
   signs - 1
   record - 1
@@ -2260,7 +2260,7 @@ table น171
   acceptance - 1
 }
 
-table น172
+table ยน172
 {
   ta - 1
   searches - 1
@@ -2273,7 +2273,7 @@ table น172
   accounts - 1
 }
 
-table น173
+table ยน173
 {
   skins - 1
   nikon - 1
@@ -2285,7 +2285,7 @@ table น173
   administrator - 1
 }
 
-table น174
+table ยน174
 {
   rivers - 1
   psychological - 1
@@ -2300,7 +2300,7 @@ table น174
   authentication - 1
 }
 
-table น175
+table ยน175
 {
   thats - 1
   social - 1
@@ -2315,7 +2315,7 @@ table น175
   consciousness - 1
 }
 
-table น176
+table ยน176
 {
   terrain - 1
   ob - 1
@@ -2324,7 +2324,7 @@ table น176
   contractor - 1
 }
 
-table น177
+table ยน177
 {
   superior - 1
   prague - 1
@@ -2332,7 +2332,7 @@ table น177
   even - 1
 }
 
-table น178
+table ยน178
 {
   shirt - 1
   granny - 1
@@ -2340,7 +2340,7 @@ table น178
   almost - 1
 }
 
-table น179
+table ยน179
 {
   tomorrow - 1
   smilies - 1
@@ -2353,7 +2353,7 @@ table น179
   at - 1
 }
 
-table น180
+table ยน180
 {
   orgy - 1
   linear - 1
@@ -2365,7 +2365,7 @@ table น180
   advantage - 1
 }
 
-table น181
+table ยน181
 {
   skirt - 1
   region - 1
@@ -2374,7 +2374,7 @@ table น181
   discount - 1
 }
 
-table น182
+table ยน182
 {
   potato - 1
   parade - 1
@@ -2391,7 +2391,7 @@ table น182
   activation - 1
 }
 
-table น183
+table ยน183
 {
   requiring - 1
   pray - 1
@@ -2405,7 +2405,7 @@ table น183
   descriptions - 1
 }
 
-table น184
+table ยน184
 {
   resident - 1
   poverty - 1
@@ -2416,7 +2416,7 @@ table น184
   detail - 1
 }
 
-table น185
+table ยน185
 {
   slightly - 1
   replacement - 1
@@ -2430,7 +2430,7 @@ table น185
   after - 1
 }
 
-table น186
+table ยน186
 {
   resolved - 1
   remark - 1
@@ -2442,7 +2442,7 @@ table น186
   butler - 1
 }
 
-table น187
+table ยน187
 {
   server - 1
   samsung - 1
@@ -2452,7 +2452,7 @@ table น187
   kijiji - 1
 }
 
-table น188
+table ยน188
 {
   largely - 1
   knock - 1
@@ -2464,13 +2464,13 @@ table น188
   adobe - 1
 }
 
-table น189
+table ยน189
 {
   robert - 1
   knight - 1
 }
 
-table น190
+table ยน190
 {
   stamps - 1
   shock - 1
@@ -2483,7 +2483,7 @@ table น190
   bullet - 1
 }
 
-table น191
+table ยน191
 {
   thick - 1
   serves - 1
@@ -2500,7 +2500,7 @@ table น191
   beastality - 1
 }
 
-table น192
+table ยน192
 {
   tongue - 1
   mounting - 1
@@ -2512,7 +2512,7 @@ table น192
   dealtime - 1
 }
 
-table น193
+table ยน193
 {
   publish - 1
   journalist - 1
@@ -2524,7 +2524,7 @@ table น193
   camera - 1
 }
 
-table น194
+table ยน194
 {
   nirvana - 1
   lite - 1
@@ -2536,7 +2536,7 @@ table น194
   bite - 1
 }
 
-table น195
+table ยน195
 {
   scratch - 1
   islands - 1
@@ -2545,7 +2545,7 @@ table น195
   cite - 1
 }
 
-table น196
+table ยน196
 {
   simulation - 1
   scientific - 1
@@ -2561,7 +2561,7 @@ table น196
   also - 1
 }
 
-table น197
+table ยน197
 {
   occupied - 1
   golden - 1
@@ -2573,7 +2573,7 @@ table น197
   annually - 1
 }
 
-table น198
+table ยน198
 {
   thinking - 1
   podcast - 1
@@ -2583,14 +2583,14 @@ table น198
   doctors - 1
 }
 
-table น199
+table ยน199
 {
   monday - 1
   methodology - 1
   depend - 1
 }
 
-table น200
+table ยน200
 {
   rotary - 1
   ri - 1
@@ -2606,7 +2606,7 @@ table น200
   appropriations - 1
 }
 
-table น201
+table ยน201
 {
   survey - 1
   misc - 1
@@ -2615,7 +2615,7 @@ table น201
   approx - 1
 }
 
-table น202
+table ยน202
 {
   toilet - 1
   suffered - 1
@@ -2629,7 +2629,7 @@ table น202
   altered - 1
 }
 
-table น203
+table ยน203
 {
   outlet - 1
   mentioned - 1
@@ -2639,7 +2639,7 @@ table น203
   bloggers - 1
 }
 
-table น204
+table ยน204
 {
   timely - 1
   scan - 1
@@ -2652,14 +2652,14 @@ table น204
   ambien - 1
 }
 
-table น205
+table ยน205
 {
   implementation - 1
   divx - 1
   brisbane - 1
 }
 
-table น206
+table ยน206
 {
   rosa - 1
   promotional - 1
@@ -2674,13 +2674,13 @@ table น206
   astrology - 1
 }
 
-table น207
+table ยน207
 {
   sizes - 1
   citysearch - 1
 }
 
-table น208
+table ยน208
 {
   times - 1
   timer - 1
@@ -2698,7 +2698,7 @@ table น208
   beautiful - 1
 }
 
-table น209
+table ยน209
 {
   testament - 1
   sized - 1
@@ -2709,7 +2709,7 @@ table น209
   desktops - 1
 }
 
-table น210
+table ยน210
 {
   rachel - 1
   feeding - 1
@@ -2718,7 +2718,7 @@ table น210
   byte - 1
 }
 
-table น211
+table ยน211
 {
   simpson - 1
   portuguese - 1
@@ -2731,7 +2731,7 @@ table น211
   artistic - 1
 }
 
-table น212
+table ยน212
 {
   successful - 1
   restrictions - 1
@@ -2748,7 +2748,7 @@ table น212
   advertiser - 1
 }
 
-table น213
+table ยน213
 {
   politicians - 1
   plymouth - 1
@@ -2757,7 +2757,7 @@ table น213
   default - 1
 }
 
-table น214
+table ยน214
 {
   rose - 1
   returns - 1
@@ -2772,7 +2772,7 @@ table น214
   acquired - 1
 }
 
-table น215
+table ยน215
 {
   submit - 1
   performed - 1
@@ -2784,7 +2784,7 @@ table น215
   cups - 1
 }
 
-table น216
+table ยน216
 {
   substantial - 1
   producers - 1
@@ -2795,7 +2795,7 @@ table น216
   committee - 1
 }
 
-table น217
+table ยน217
 {
   practitioners - 1
   mysterious - 1
@@ -2805,7 +2805,7 @@ table น217
   forest - 1
 }
 
-table น218
+table ยน218
 {
   reforms - 1
   news - 1
@@ -2823,13 +2823,13 @@ table น218
   baking - 1
 }
 
-table น219
+table ยน219
 {
   heritage - 1
   forced - 1
 }
 
-table น220
+table ยน220
 {
   sept - 1
   myth - 1
@@ -2838,7 +2838,7 @@ table น220
   amazoncom - 1
 }
 
-table น221
+table ยน221
 {
   synthesis - 1
   parish - 1
@@ -2849,7 +2849,7 @@ table น221
   drag - 1
 }
 
-table น222
+table ยน222
 {
   testimonials - 1
   resorts - 1
@@ -2862,14 +2862,14 @@ table น222
   bugs - 1
 }
 
-table น223
+table ยน223
 {
   resulting - 1
   financial - 1
   decorating - 1
 }
 
-table น224
+table ยน224
 {
   technologies - 1
   regularly - 1
@@ -2884,7 +2884,7 @@ table น224
   announce - 1
 }
 
-table น225
+table ยน225
 {
   savage - 1
   praise - 1
@@ -2893,7 +2893,7 @@ table น225
   connector - 1
 }
 
-table น226
+table ยน226
 {
   taught - 1
   reviewer - 1
@@ -2902,7 +2902,7 @@ table น226
   agricultural - 1
 }
 
-table น227
+table ยน227
 {
   suburban - 1
   sa - 1
@@ -2917,7 +2917,7 @@ table น227
   carlo - 1
 }
 
-table น228
+table ยน228
 {
   settings - 1
   ross - 1
@@ -2928,7 +2928,7 @@ table น228
   exec - 1
 }
 
-table น229
+table ยน229
 {
   magnificent - 1
   flights - 1
@@ -2937,7 +2937,7 @@ table น229
   benefit - 1
 }
 
-table น230
+table ยน230
 {
   tops - 1
   sort - 1
@@ -2952,7 +2952,7 @@ table น230
   atlanta - 1
 }
 
-table น231
+table ยน231
 {
   over - 1
   official - 1
@@ -2962,7 +2962,7 @@ table น231
   businesses - 1
 }
 
-table น232
+table ยน232
 {
   tournament - 1
   reality - 1
@@ -2981,7 +2981,7 @@ table น232
   boating - 1
 }
 
-table น233
+table ยน233
 {
   prisoner - 1
   preferences - 1
@@ -2992,7 +2992,7 @@ table น233
   barn - 1
 }
 
-table น234
+table ยน234
 {
   surprised - 1
   routines - 1
@@ -3004,7 +3004,7 @@ table น234
   bare - 1
 }
 
-table น235
+table ยน235
 {
   oven - 1
   modular - 1
@@ -3020,7 +3020,7 @@ table น235
   britain - 1
 }
 
-table น236
+table ยน236
 {
   partnership - 1
   obtaining - 1
@@ -3033,7 +3033,7 @@ table น236
   advice - 1
 }
 
-table น237
+table ยน237
 {
   tolerance - 1
   owen - 1
@@ -3043,7 +3043,7 @@ table น237
   earl - 1
 }
 
-table น238
+table ยน238
 {
   switch - 1
   rugs - 1
@@ -3057,7 +3057,7 @@ table น238
   appeal - 1
 }
 
-table น239
+table ยน239
 {
   retrieved - 1
   parcel - 1
@@ -3069,7 +3069,7 @@ table น239
   accomplish - 1
 }
 
-table น240
+table ยน240
 {
   sponsors - 1
   nickname - 1
@@ -3085,7 +3085,7 @@ table น240
   amendment - 1
 }
 
-table น241
+table ยน241
 {
   produced - 1
   portrait - 1
@@ -3097,7 +3097,7 @@ table น241
   animated - 1
 }
 
-table น242
+table ยน242
 {
   sheffield - 1
   responsibility - 1
@@ -3116,7 +3116,7 @@ table น242
   authorization - 1
 }
 
-table น243
+table ยน243
 {
   subsequently - 1
   opponent - 1
@@ -3129,7 +3129,7 @@ table น243
   attacked - 1
 }
 
-table น244
+table ยน244
 {
   resolve - 1
   reserve - 1
@@ -3143,7 +3143,7 @@ table น244
   earth - 1
 }
 
-table น245
+table ยน245
 {
   supports - 1
   summary - 1
@@ -3153,7 +3153,7 @@ table น245
   between - 1
 }
 
-table น246
+table ยน246
 {
   regular - 1
   packet - 1
@@ -3165,7 +3165,7 @@ table น246
   associate - 1
 }
 
-table น247
+table ยน247
 {
   reviewing - 1
   parent - 1
@@ -3179,7 +3179,7 @@ table น247
   approximate - 1
 }
 
-table น248
+table ยน248
 {
   touched - 1
   tactics - 1
@@ -3194,7 +3194,7 @@ table น248
   appear - 1
 }
 
-table น249
+table ยน249
 {
   gorgeous - 1
   ears - 1
@@ -3204,7 +3204,7 @@ table น249
   affiliates - 1
 }
 
-table น250
+table ยน250
 {
   ribbon - 1
   niger - 1
@@ -3218,7 +3218,7 @@ table น250
   babe - 1
 }
 
-table น251
+table ยน251
 {
   nomination - 1
   morocco - 1
@@ -3227,7 +3227,7 @@ table น251
   advisors - 1
 }
 
-table น252
+table ยน252
 {
   stylish - 1
   papers - 1
@@ -3238,14 +3238,14 @@ table น252
   cadillac - 1
 }
 
-table น253
+table ยน253
 {
   return - 1
   metric - 1
   flowers - 1
 }
 
-table น254
+table ยน254
 {
   speeches - 1
   sheer - 1
@@ -3259,7 +3259,7 @@ table น254
   apparel - 1
 }
 
-table น255
+table ยน255
 {
   sending - 1
   parallel - 1
@@ -3268,7 +3268,7 @@ table น255
   advisory - 1
 }
 
-table น256
+table ยน256
 {
   tiger - 1
   sheet - 1
@@ -3281,7 +3281,7 @@ table น256
   appliance - 1
 }
 
-table น257
+table ยน257
 {
   sacred - 1
   portsmouth - 1
@@ -3291,7 +3291,7 @@ table น257
   instructor - 1
 }
 
-table น258
+table ยน258
 {
   spring - 1
   represented - 1
@@ -3305,7 +3305,7 @@ table น258
   aspnet - 1
 }
 
-table น259
+table ยน259
 {
   throughout - 1
   stanford - 1
@@ -3317,7 +3317,7 @@ table น259
   carried - 1
 }
 
-table น260
+table ยน260
 {
   startup - 1
   quarterly - 1
@@ -3330,7 +3330,7 @@ table น260
   adams - 1
 }
 
-table น261
+table ยน261
 {
   stupid - 1
   premier - 1
@@ -3339,7 +3339,7 @@ table น261
   community - 1
 }
 
-table น262
+table ยน262
 {
   thumb - 1
   threaded - 1
@@ -3349,7 +3349,7 @@ table น262
   basic - 1
 }
 
-table น263
+table ยน263
 {
   someone - 1
   motorola - 1
@@ -3360,7 +3360,7 @@ table น263
   dealt - 1
 }
 
-table น264
+table ยน264
 {
   terror - 1
   rolling - 1
@@ -3376,7 +3376,7 @@ table น264
   above - 1
 }
 
-table น265
+table ยน265
 {
   sprint - 1
   so - 1
@@ -3394,7 +3394,7 @@ table น265
   alcohol - 1
 }
 
-table น266
+table ยน266
 {
   starter - 1
   sharing - 1
@@ -3406,7 +3406,7 @@ table น266
   buyers - 1
 }
 
-table น267
+table ยน267
 {
   saturday - 1
   reproduction - 1
@@ -3416,7 +3416,7 @@ table น267
   declaration - 1
 }
 
-table น268
+table ยน268
 {
   tender - 1
   started - 1
@@ -3428,7 +3428,7 @@ table น268
   accountability - 1
 }
 
-table น269
+table ยน269
 {
   rp - 1
   refund - 1
@@ -3436,7 +3436,7 @@ table น269
   attending - 1
 }
 
-table น270
+table ยน270
 {
   subsidiary - 1
   slovakia - 1
@@ -3451,7 +3451,7 @@ table น270
   beneficial - 1
 }
 
-table น271
+table ยน271
 {
   suzuki - 1
   semester - 1
@@ -3469,7 +3469,7 @@ table น271
   accepts - 1
 }
 
-table น272
+table ยน272
 {
   rage - 1
   nt - 1
@@ -3488,7 +3488,7 @@ table น272
   chance - 1
 }
 
-table น273
+table ยน273
 {
   sage - 1
   safe - 1
@@ -3508,7 +3508,7 @@ table น273
   anticipated - 1
 }
 
-table น274
+table ยน274
 {
   tobago - 1
   specification - 1
@@ -3524,7 +3524,7 @@ table น274
   abuse - 1
 }
 
-table น275
+table ยน275
 {
   reproduce - 1
   realistic - 1
@@ -3537,7 +3537,7 @@ table น275
   aqua - 1
 }
 
-table น276
+table ยน276
 {
   sometimes - 1
   securely - 1
@@ -3554,7 +3554,7 @@ table น276
   accurately - 1
 }
 
-table น277
+table ยน277
 {
   surrounded - 1
   suggest - 1
@@ -3567,7 +3567,7 @@ table น277
   amanda - 1
 }
 
-table น278
+table ยน278
 {
   towers - 1
   student - 1
@@ -3580,7 +3580,7 @@ table น278
   basis - 1
 }
 
-table น279
+table ยน279
 {
   path - 1
   passed - 1
@@ -3595,7 +3595,7 @@ table น279
   bored - 1
 }
 
-table น280
+table ยน280
 {
   tp - 1
   tn - 1
@@ -3609,7 +3609,7 @@ table น280
   handjob - 1
 }
 
-table น281
+table ยน281
 {
   toward - 1
   suspected - 1
@@ -3627,7 +3627,7 @@ table น281
   accompanying - 1
 }
 
-table น282
+table ยน282
 {
   starsmerchant - 1
   rate - 1
@@ -3644,7 +3644,7 @@ table น282
   actor - 1
 }
 
-table น283
+table ยน283
 {
   siemens - 1
   resort - 1
@@ -3656,7 +3656,7 @@ table น283
   combined - 1
 }
 
-table น284
+table ยน284
 {
   though - 1
   rh - 1
@@ -3675,7 +3675,7 @@ table น284
   capabilities - 1
 }
 
-table น285
+table ยน285
 {
   surface - 1
   salvador - 1
@@ -3691,7 +3691,7 @@ table น285
   blowing - 1
 }
 
-table น286
+table ยน286
 {
   therapist - 1
   requests - 1
@@ -3707,7 +3707,7 @@ table น286
   achieving - 1
 }
 
-table น287
+table ยน287
 {
   says - 1
   msie - 1
@@ -3718,7 +3718,7 @@ table น287
   asks - 1
 }
 
-table น288
+table ยน288
 {
   pt - 1
   opposition - 1
@@ -3740,7 +3740,7 @@ table น288
   by - 1
 }
 
-table น289
+table ยน289
 {
   save - 1
   proc - 1
@@ -3752,7 +3752,7 @@ table น289
   about - 1
 }
 
-table น290
+table ยน290
 {
   recordings - 1
   outcomes - 1
@@ -3767,7 +3767,7 @@ table น290
   basin - 1
 }
 
-table น291
+table ยน291
 {
   their - 1
   monitors - 1
@@ -3780,7 +3780,7 @@ table น291
   acres - 1
 }
 
-table น292
+table ยน292
 {
   separately - 1
   sections - 1
@@ -3800,7 +3800,7 @@ table น292
   attend - 1
 }
 
-table น293
+table ยน293
 {
   prozac - 1
   ntsc - 1
@@ -3817,7 +3817,7 @@ table น293
   agree - 1
 }
 
-table น294
+table ยน294
 {
   rolled - 1
   rats - 1
@@ -3833,7 +3833,7 @@ table น294
   angeles - 1
 }
 
-table น295
+table ยน295
 {
   second - 1
   phentermine - 1
@@ -3855,7 +3855,7 @@ table น295
   according - 1
 }
 
-table น296
+table ยน296
 {
   task - 1
   schedules - 1
@@ -3875,7 +3875,7 @@ table น296
   cord - 1
 }
 
-table น297
+table ยน297
 {
   thee - 1
   prof - 1
@@ -3890,7 +3890,7 @@ table น297
   acceptable - 1
 }
 
-table น298
+table ยน298
 {
   taxi - 1
   stylus - 1
@@ -3902,7 +3902,7 @@ table น298
   army - 1
 }
 
-table น299
+table ยน299
 {
   stuart - 1
   purchases - 1
@@ -3918,7 +3918,7 @@ table น299
   asin - 1
 }
 
-table น300
+table ยน300
 {
   organisms - 1
   legends - 1
@@ -3928,7 +3928,7 @@ table น300
   corp - 1
 }
 
-table น301
+table ยน301
 {
   specialized - 1
   serial - 1
@@ -3947,7 +3947,7 @@ table น301
   applicant - 1
 }
 
-table น302
+table ยน302
 {
   stable - 1
   hose - 1
@@ -3960,7 +3960,7 @@ table น302
   alumni - 1
 }
 
-table น303
+table ยน303
 {
   senegal - 1
   purchased - 1
@@ -3974,7 +3974,7 @@ table น303
   customers - 1
 }
 
-table น304
+table ยน304
 {
   rise - 1
   receiving - 1
@@ -3992,7 +3992,7 @@ table น304
   derek - 1
 }
 
-table น305
+table ยน305
 {
   tf - 1
   signatures - 1
@@ -4016,7 +4016,7 @@ table น305
   calgary - 1
 }
 
-table น306
+table ยน306
 {
   stomach - 1
   spot - 1
@@ -4033,7 +4033,7 @@ table น306
   evil - 1
 }
 
-table น307
+table ยน307
 {
   played - 1
   physics - 1
@@ -4049,7 +4049,7 @@ table น307
   casting - 1
 }
 
-table น308
+table ยน308
 {
   result - 1
   remove - 1
@@ -4070,14 +4070,14 @@ table น308
   arbitrary - 1
 }
 
-table น309
+table ยน309
 {
   shooting - 1
   mart - 1
   cork - 1
 }
 
-table น310
+table ยน310
 {
   slide - 1
   shorter - 1
@@ -4100,7 +4100,7 @@ table น310
   beans - 1
 }
 
-table น311
+table ยน311
 {
   substance - 1
   relocation - 1
@@ -4110,7 +4110,7 @@ table น311
   born - 1
 }
 
-table น312
+table ยน312
 {
   temple - 1
   reliable - 1
@@ -4123,7 +4123,7 @@ table น312
   corn - 1
 }
 
-table น313
+table ยน313
 {
   symptoms - 1
   must - 1
@@ -4133,7 +4133,7 @@ table น313
   analytical - 1
 }
 
-table น314
+table ยน314
 {
   submitting - 1
   spin - 1
@@ -4149,7 +4149,7 @@ table น314
   anna - 1
 }
 
-table น315
+table ยน315
 {
   scotia - 1
   plug - 1
@@ -4159,7 +4159,7 @@ table น315
   casinos - 1
 }
 
-table น316
+table ยน316
 {
   smtp - 1
   piss - 1
@@ -4170,7 +4170,7 @@ table น316
   austin - 1
 }
 
-table น317
+table ยน317
 {
   they - 1
   scenic - 1
@@ -4185,7 +4185,7 @@ table น317
   automation - 1
 }
 
-table น318
+table ยน318
 {
   string - 1
   ruling - 1
@@ -4200,7 +4200,7 @@ table น318
   again - 1
 }
 
-table น319
+table ยน319
 {
   swim - 1
   shoppingcom - 1
@@ -4216,7 +4216,7 @@ table น319
   bind - 1
 }
 
-table น320
+table ยน320
 {
   syracuse - 1
   subscriptions - 1
@@ -4234,7 +4234,7 @@ table น320
   albums - 1
 }
 
-table น321
+table ยน321
 {
   them - 1
   pakistan - 1
@@ -4246,7 +4246,7 @@ table น321
   argentina - 1
 }
 
-table น322
+table ยน322
 {
   township - 1
   then - 1
@@ -4263,7 +4263,7 @@ table น322
   dial - 1
 }
 
-table น323
+table ยน323
 {
   thus - 1
   success - 1
@@ -4275,7 +4275,7 @@ table น323
   caution - 1
 }
 
-table น324
+table ยน324
 {
   tits - 1
   patrick - 1
@@ -4294,7 +4294,7 @@ table น324
   adidas - 1
 }
 
-table น325
+table ยน325
 {
   slut - 1
   security - 1
@@ -4318,7 +4318,7 @@ table น325
   accessory - 1
 }
 
-table น326
+table ยน326
 {
   strips - 1
   qualifications - 1
@@ -4341,7 +4341,7 @@ table น326
   adjusted - 1
 }
 
-table น327
+table ยน327
 {
   morris - 1
   mini - 1
@@ -4351,7 +4351,7 @@ table น327
   comprehensive - 1
 }
 
-table น328
+table ยน328
 {
   peak - 1
   obtain - 1
@@ -4364,7 +4364,7 @@ table น328
   chemicals - 1
 }
 
-table น329
+table ยน329
 {
   scanning - 1
   scanner - 1
@@ -4387,7 +4387,7 @@ table น329
   aims - 1
 }
 
-table น330
+table ยน330
 {
   streets - 1
   revisions - 1
@@ -4398,7 +4398,7 @@ table น330
   bias - 1
 }
 
-table น331
+table ยน331
 {
   strict - 1
   soma - 1
@@ -4412,7 +4412,7 @@ table น331
   comparative - 1
 }
 
-table น332
+table ยน332
 {
   threesome - 1
   simpsons - 1
@@ -4432,7 +4432,7 @@ table น332
   admissions - 1
 }
 
-table น333
+table ยน333
 {
   scanned - 1
   ourselves - 1
@@ -4443,7 +4443,7 @@ table น333
   amazon - 1
 }
 
-table น334
+table ยน334
 {
   term - 1
   tech - 1
@@ -4463,7 +4463,7 @@ table น334
   climate - 1
 }
 
-table น335
+table ยน335
 {
   sexo - 1
   semi - 1
@@ -4478,7 +4478,7 @@ table น335
   contractors - 1
 }
 
-table น336
+table ยน336
 {
   tires - 1
   rg - 1
@@ -4497,7 +4497,7 @@ table น336
   antigua - 1
 }
 
-table น337
+table ยน337
 {
   sponsor - 1
   sentences - 1
@@ -4509,7 +4509,7 @@ table น337
   admission - 1
 }
 
-table น338
+table ยน338
 {
   tired - 1
   racing - 1
@@ -4521,7 +4521,7 @@ table น338
   alot - 1
 }
 
-table น339
+table ยน339
 {
   target - 1
   silly - 1
@@ -4536,7 +4536,7 @@ table น339
   captain - 1
 }
 
-table น340
+table ยน340
 {
   sullivan - 1
   realize - 1
@@ -4552,7 +4552,7 @@ table น340
   axis - 1
 }
 
-table น341
+table ยน341
 {
   senate - 1
   mint - 1
@@ -4569,7 +4569,7 @@ table น341
   blvd - 1
 }
 
-table น342
+table ยน342
 {
   text - 1
   rome - 1
@@ -4582,7 +4582,7 @@ table น342
   columbia - 1
 }
 
-table น343
+table ยน343
 {
   some - 1
   roll - 1
@@ -4591,7 +4591,7 @@ table น343
   against - 1
 }
 
-table น344
+table ยน344
 {
   tent - 1
   tend - 1
@@ -4605,7 +4605,7 @@ table น344
   libs - 1
 }
 
-table น345
+table ยน345
 {
   toll - 1
   solo - 1
@@ -4619,7 +4619,7 @@ table น345
   collectibles - 1
 }
 
-table น346
+table ยน346
 {
   town - 1
   sustained - 1
@@ -4638,7 +4638,7 @@ table น346
   cricket - 1
 }
 
-table น347
+table ยน347
 {
   situated - 1
   seas - 1
@@ -4650,7 +4650,7 @@ table น347
   convinced - 1
 }
 
-table น348
+table ยน348
 {
   sent - 1
   rule - 1
@@ -4663,7 +4663,7 @@ table น348
   bacteria - 1
 }
 
-table น349
+table ยน349
 {
   sure - 1
   sexy - 1
@@ -4678,7 +4678,7 @@ table น349
   auto - 1
 }
 
-table น350
+table ยน350
 {
   toys - 1
   test - 1
@@ -4698,7 +4698,7 @@ table น350
   bulk - 1
 }
 
-table น351
+table ยน351
 {
   thumbs - 1
   suse - 1
@@ -4712,7 +4712,7 @@ table น351
   cuts - 1
 }
 
-table น352
+table ยน352
 {
   sold - 1
   grenada - 1
@@ -4721,7 +4721,7 @@ table น352
   aspect - 1
 }
 
-table น353
+table ยน353
 {
   told - 1
   soup - 1
@@ -4740,7 +4740,7 @@ table น353
   cafe - 1
 }
 
-table น354
+table ยน354
 {
   tons - 1
   packaging - 1
@@ -4749,7 +4749,7 @@ table น354
   agriculture - 1
 }
 
-table น355
+table ยน355
 {
   st - 1
   sony - 1
@@ -4759,7 +4759,7 @@ table น355
   entering - 1
 }
 
-table น356
+table ยน356
 {
   tony - 1
   telecommunications - 1
@@ -4771,12 +4771,12 @@ table น356
   assurance - 1
 }
 
-table น357
+table ยน357
 {
   quit - 1
 }
 
-table น358
+table ยน358
 {
   tour - 1
   te - 1
@@ -4794,7 +4794,7 @@ table น358
   back - 1
 }
 
-table น359
+table ยน359
 {
   suit - 1
   sole - 1
@@ -4806,7 +4806,7 @@ table น359
   designated - 1
 }
 
-table น360
+table ยน360
 {
   tool - 1
   tone - 1
@@ -4825,7 +4825,7 @@ table น360
   assigned - 1
 }
 
-table น361
+table ยน361
 {
   track - 1
   stunning - 1
@@ -4840,7 +4840,7 @@ table น361
   answer - 1
 }
 
-table น362
+table ยน362
 {
   took - 1
   tomato - 1
@@ -4855,7 +4855,7 @@ table น362
   chapters - 1
 }
 
-table น363
+table ยน363
 {
   tariff - 1
   scary - 1
@@ -4868,7 +4868,7 @@ table น363
   celebs - 1
 }
 
-table น364
+table ยน364
 {
   spokesman - 1
   rush - 1
@@ -4878,7 +4878,7 @@ table น364
   adjust - 1
 }
 
-table น365
+table ยน365
 {
   thorough - 1
   specifically - 1
@@ -4892,7 +4892,7 @@ table น365
   begin - 1
 }
 
-table น366
+table ยน366
 {
   reviews - 1
   remedy - 1
@@ -4902,7 +4902,7 @@ table น366
   awful - 1
 }
 
-table น367
+table ยน367
 {
   shell - 1
   seven - 1
@@ -4911,7 +4911,7 @@ table น367
   aspects - 1
 }
 
-table น368
+table ยน368
 {
   sufficient - 1
   spirituality - 1
@@ -4923,7 +4923,7 @@ table น368
   commission - 1
 }
 
-table น369
+table ยน369
 {
   spread - 1
   rochester - 1
@@ -4933,7 +4933,7 @@ table น369
   cave - 1
 }
 
-table น370
+table ยน370
 {
   impression - 1
   headset - 1
@@ -4942,7 +4942,7 @@ table น370
   ballot - 1
 }
 
-table น371
+table ยน371
 {
   theaters - 1
   queue - 1
@@ -4955,7 +4955,7 @@ table น371
   bernard - 1
 }
 
-table น372
+table ยน372
 {
   taylor - 1
   picks - 1
@@ -4968,7 +4968,7 @@ table น372
   acknowledged - 1
 }
 
-table น373
+table ยน373
 {
   resources - 1
   paintings - 1
@@ -4979,7 +4979,7 @@ table น373
   distinction - 1
 }
 
-table น374
+table ยน374
 {
   studios - 1
   locks - 1
@@ -4992,7 +4992,7 @@ table น374
   acer - 1
 }
 
-table น375
+table ยน375
 {
   inbox - 1
   consideration - 1
@@ -5002,7 +5002,7 @@ table น375
   acts - 1
 }
 
-table น376
+table ยน376
 {
   nextel - 1
   former - 1
@@ -5013,7 +5013,7 @@ table น376
   bath - 1
 }
 
-table น377
+table ยน377
 {
   submissions - 1
   somehow - 1
@@ -5021,7 +5021,7 @@ table น377
   acne - 1
 }
 
-table น378
+table ยน378
 {
   tract - 1
   tight - 1
@@ -5043,7 +5043,7 @@ table น378
   assumed - 1
 }
 
-table น379
+table ยน379
 {
   savings - 1
   mongolia - 1
@@ -5058,7 +5058,7 @@ table น379
   acre - 1
 }
 
-table น380
+table ยน380
 {
   preferred - 1
   noble - 1
@@ -5070,7 +5070,7 @@ table น380
   bikini - 1
 }
 
-table น381
+table ยน381
 {
   tracy - 1
   trace - 1
@@ -5088,7 +5088,7 @@ table น381
   charitable - 1
 }
 
-table น382
+table ยน382
 {
   rn - 1
   rapids - 1
@@ -5102,7 +5102,7 @@ table น382
   alternatively - 1
 }
 
-table น383
+table ยน383
 {
   themes - 1
   surfing - 1
@@ -5117,7 +5117,7 @@ table น383
   defensive - 1
 }
 
-table น384
+table ยน384
 {
   profit - 1
   principles - 1
@@ -5131,7 +5131,7 @@ table น384
   aviation - 1
 }
 
-table น385
+table ยน385
 {
   suggested - 1
   shelf - 1
@@ -5141,7 +5141,7 @@ table น385
   changed - 1
 }
 
-table น386
+table ยน386
 {
   strictly - 1
   productivity - 1
@@ -5151,7 +5151,7 @@ table น386
   changes - 1
 }
 
-table น387
+table ยน387
 {
   structural - 1
   separated - 1
@@ -5163,7 +5163,7 @@ table น387
   canon - 1
 }
 
-table น388
+table ยน388
 {
   symposium - 1
   problems - 1
@@ -5178,7 +5178,7 @@ table น388
   alpine - 1
 }
 
-table น389
+table ยน389
 {
   doctrine - 1
   completed - 1
@@ -5187,7 +5187,7 @@ table น389
   attorneys - 1
 }
 
-table น390
+table ยน390
 {
   small - 1
   similarly - 1
@@ -5199,7 +5199,7 @@ table น390
   belize - 1
 }
 
-table น391
+table ยน391
 {
   pressed - 1
   origin - 1
@@ -5211,7 +5211,7 @@ table น391
   bedrooms - 1
 }
 
-table น392
+table ยน392
 {
   residence - 1
   referral - 1
@@ -5223,13 +5223,13 @@ table น392
   always - 1
 }
 
-table น393
+table ยน393
 {
   preston - 1
   empire - 1
 }
 
-table น394
+table ยน394
 {
   printers - 1
   period - 1
@@ -5245,7 +5245,7 @@ table น394
   addressing - 1
 }
 
-table น395
+table ยน395
 {
   synthetic - 1
   score - 1
@@ -5254,14 +5254,14 @@ table น395
   agreements - 1
 }
 
-table น396
+table ยน396
 {
   inform - 1
   holidays - 1
   hitachi - 1
 }
 
-table น397
+table ยน397
 {
   summaries - 1
   sense - 1
@@ -5278,7 +5278,7 @@ table น397
   columbus - 1
 }
 
-table น398
+table ยน398
 {
   rouge - 1
   rescue - 1
@@ -5293,7 +5293,7 @@ table น398
   banana - 1
 }
 
-table น399
+table ยน399
 {
   plants - 1
   mi - 1
@@ -5303,7 +5303,7 @@ table น399
   absolutely - 1
 }
 
-table น400
+table ยน400
 {
   techno - 1
   kruger - 1
@@ -5312,7 +5312,7 @@ table น400
   cnetcom - 1
 }
 
-table น401
+table ยน401
 {
   reflected - 1
   neural - 1
@@ -5323,7 +5323,7 @@ table น401
   aj - 1
 }
 
-table น402
+table ยน402
 {
   sunshine - 1
   rights - 1
@@ -5336,7 +5336,7 @@ table น402
   clark - 1
 }
 
-table น403
+table ยน403
 {
   shoppers - 1
   islam - 1
@@ -5346,7 +5346,7 @@ table น403
   cells - 1
 }
 
-table น404
+table ยน404
 {
   tennis - 1
   selections - 1
@@ -5372,7 +5372,7 @@ table น404
   advance - 1
 }
 
-table น405
+table ยน405
 {
   surge - 1
   stuff - 1
@@ -5389,7 +5389,7 @@ table น405
   auction - 1
 }
 
-table น406
+table ยน406
 {
   supplemental - 1
   stroke - 1
@@ -5401,7 +5401,7 @@ table น406
   aluminum - 1
 }
 
-table น407
+table ยน407
 {
   selling - 1
   highlights - 1
@@ -5409,7 +5409,7 @@ table น407
   admitted - 1
 }
 
-table น408
+table ยน408
 {
   thesaurus - 1
   rough - 1
@@ -5425,7 +5425,7 @@ table น408
   criminal - 1
 }
 
-table น409
+table ยน409
 {
   spatial - 1
   minds - 1
@@ -5439,7 +5439,7 @@ table น409
   assistance - 1
 }
 
-table น410
+table ยน410
 {
   tough - 1
   temporal - 1
@@ -5451,7 +5451,7 @@ table น410
   advancement - 1
 }
 
-table น411
+table ยน411
 {
   terminal - 1
   pearl - 1
@@ -5464,7 +5464,7 @@ table น411
   bomb - 1
 }
 
-table น412
+table ยน412
 {
   texts - 1
   tears - 1
@@ -5484,7 +5484,7 @@ table น412
   basement - 1
 }
 
-table น413
+table ยน413
 {
   quite - 1
   mining - 1
@@ -5494,7 +5494,7 @@ table น413
   beth - 1
 }
 
-table น414
+table ยน414
 {
   switching - 1
   recipe - 1
@@ -5512,7 +5512,7 @@ table น414
   beam - 1
 }
 
-table น415
+table ยน415
 {
   sunrise - 1
   suite - 1
@@ -5527,7 +5527,7 @@ table น415
   actress - 1
 }
 
-table น416
+table ยน416
 {
   terry - 1
   tablets - 1
@@ -5543,7 +5543,7 @@ table น416
   accessories - 1
 }
 
-table น417
+table ยน417
 {
   solar - 1
   replacing - 1
@@ -5553,7 +5553,7 @@ table น417
   abstract - 1
 }
 
-table น418
+table ยน418
 {
   requirement - 1
   jj - 1
@@ -5563,7 +5563,7 @@ table น418
   arab - 1
 }
 
-table น419
+table ยน419
 {
   thank - 1
   september - 1
@@ -5582,7 +5582,7 @@ table น419
   acrylic - 1
 }
 
-table น420
+table ยน420
 {
   toyota - 1
   sequences - 1
@@ -5594,7 +5594,7 @@ table น420
   choosing - 1
 }
 
-table น421
+table ยน421
 {
   platforms - 1
   occurring - 1
@@ -5606,7 +5606,7 @@ table น421
   enhancement - 1
 }
 
-table น422
+table ยน422
 {
   tower - 1
   outer - 1
@@ -5629,7 +5629,7 @@ table น422
   alabama - 1
 }
 
-table น423
+table ยน423
 {
   right - 1
   organisation - 1
@@ -5640,7 +5640,7 @@ table น423
   cn - 1
 }
 
-table น424
+table ยน424
 {
   spam - 1
   sight - 1
@@ -5660,7 +5660,7 @@ table น424
   adds - 1
 }
 
-table น425
+table ยน425
 {
   skills - 1
   secretary - 1
@@ -5673,7 +5673,7 @@ table น425
   affected - 1
 }
 
-table น426
+table ยน426
 {
   stress - 1
   span - 1
@@ -5691,7 +5691,7 @@ table น426
   ab - 1
 }
 
-table น427
+table ยน427
 {
   suits - 1
   size - 1
@@ -5707,7 +5707,7 @@ table น427
   ae - 1
 }
 
-table น428
+table ยน428
 {
   time - 1
   tile - 1
@@ -5732,7 +5732,7 @@ table น428
   antique - 1
 }
 
-table น429
+table ยน429
 {
   pond - 1
   officials - 1
@@ -5746,7 +5746,7 @@ table น429
   benz - 1
 }
 
-table น430
+table ยน430
 {
   strong - 1
   springfield - 1
@@ -5770,7 +5770,7 @@ table น430
   beds - 1
 }
 
-table น431
+table ยน431
 {
   somebody - 1
   saints - 1
@@ -5780,7 +5780,7 @@ table น431
   cest - 1
 }
 
-table น432
+table ยน432
 {
   shoe - 1
   publication - 1
@@ -5796,7 +5796,7 @@ table น432
   boot - 1
 }
 
-table น433
+table ยน433
 {
   techrepublic - 1
   skirts - 1
@@ -5818,7 +5818,7 @@ table น433
   basketball - 1
 }
 
-table น434
+table ยน434
 {
   tire - 1
   plain - 1
@@ -5836,7 +5836,7 @@ table น434
   bangbus - 1
 }
 
-table น435
+table ยน435
 {
   threatening - 1
   surgical - 1
@@ -5855,7 +5855,7 @@ table น435
   approaches - 1
 }
 
-table น436
+table ยน436
 {
   switzerland - 1
   students - 1
@@ -5872,7 +5872,7 @@ table น436
   allied - 1
 }
 
-table น437
+table ยน437
 {
   su - 1
   smell - 1
@@ -5883,7 +5883,7 @@ table น437
   copy - 1
 }
 
-table น438
+table ยน438
 {
   spas - 1
   primarily - 1
@@ -5894,7 +5894,7 @@ table น438
   boom - 1
 }
 
-table น439
+table ยน439
 {
   this - 1
   strength - 1
@@ -5909,7 +5909,7 @@ table น439
   adolescent - 1
 }
 
-table น440
+table ยน440
 {
   torture - 1
   stanley - 1
@@ -5925,7 +5925,7 @@ table น440
   book - 1
 }
 
-table น441
+table ยน441
 {
   scripts - 1
   reservation - 1
@@ -5940,7 +5940,7 @@ table น441
   coin - 1
 }
 
-table น442
+table ยน442
 {
   shot - 1
   shortly - 1
@@ -5953,7 +5953,7 @@ table น442
   builds - 1
 }
 
-table น443
+table ยน443
 {
   sims - 1
   moms - 1
@@ -5961,7 +5961,7 @@ table น443
   foul - 1
 }
 
-table น444
+table ยน444
 {
   tips - 1
   thriller - 1
@@ -5980,7 +5980,7 @@ table น444
   arrivals - 1
 }
 
-table น445
+table ยน445
 {
   prints - 1
   prescription - 1
@@ -5998,7 +5998,7 @@ table น445
   articles - 1
 }
 
-table น446
+table ยน446
 {
   tiny - 1
   spears - 1
@@ -6015,7 +6015,7 @@ table น446
   chevy - 1
 }
 
-table น447
+table ยน447
 {
   services - 1
   series - 1
@@ -6027,7 +6027,7 @@ table น447
   bloomberg - 1
 }
 
-table น448
+table ยน448
 {
   statewide - 1
   relative - 1
@@ -6042,7 +6042,7 @@ table น448
   degrees - 1
 }
 
-table น449
+table ยน449
 {
   sherman - 1
   prizes - 1
@@ -6054,7 +6054,7 @@ table น449
   candidates - 1
 }
 
-table น450
+table ยน450
 {
   till - 1
   show - 1
@@ -6072,7 +6072,7 @@ table น450
   affects - 1
 }
 
-table น451
+table ยน451
 {
   thru - 1
   thin - 1
@@ -6083,7 +6083,7 @@ table น451
   analysts - 1
 }
 
-table น452
+table ยน452
 {
   tion - 1
   sl - 1
@@ -6098,13 +6098,13 @@ table น452
   alan - 1
 }
 
-table น453
+table ยน453
 {
   informed - 1
   evaluating - 1
 }
 
-table น454
+table ยน454
 {
   slow - 1
   reef - 1
@@ -6116,7 +6116,7 @@ table น454
   anal - 1
 }
 
-table น455
+table ยน455
 {
   thunder - 1
   teachers - 1
@@ -6131,7 +6131,7 @@ table น455
   across - 1
 }
 
-table น456
+table ยน456
 {
   snow - 1
   rabbit - 1
@@ -6141,7 +6141,7 @@ table น456
   distinguished - 1
 }
 
-table น457
+table ยน457
 {
   solved - 1
   sheriff - 1
@@ -6153,7 +6153,7 @@ table น457
   accept - 1
 }
 
-table น458
+table ยน458
 {
   toronto - 1
   reserved - 1
@@ -6161,7 +6161,7 @@ table น458
   costumes - 1
 }
 
-table น459
+table ยน459
 {
   suffering - 1
   seek - 1
@@ -6173,7 +6173,7 @@ table น459
   garcia - 1
 }
 
-table น460
+table ยน460
 {
   spectrum - 1
   reel - 1
@@ -6186,7 +6186,7 @@ table น460
   belgium - 1
 }
 
-table น461
+table ยน461
 {
   renewal - 1
   publicity - 1
@@ -6195,7 +6195,7 @@ table น461
   aids - 1
 }
 
-table น462
+table ยน462
 {
   olympic - 1
   narrow - 1
@@ -6205,7 +6205,7 @@ table น462
   executed - 1
 }
 
-table น463
+table ยน463
 {
   seem - 1
   participate - 1
@@ -6213,7 +6213,7 @@ table น463
   fluid - 1
 }
 
-table น464
+table ยน464
 {
   statements - 1
   programmes - 1
@@ -6231,7 +6231,7 @@ table น464
   andy - 1
 }
 
-table น465
+table ยน465
 {
   supervisor - 1
   question - 1
@@ -6243,7 +6243,7 @@ table น465
   brochures - 1
 }
 
-table น466
+table ยน466
 {
   standard - 1
   princess - 1
@@ -6262,14 +6262,14 @@ table น466
   bids - 1
 }
 
-table น467
+table ยน467
 {
   incorrect - 1
   herself - 1
   champions - 1
 }
 
-table น468
+table ยน468
 {
   technological - 1
   rock - 1
@@ -6279,7 +6279,7 @@ table น468
   bennett - 1
 }
 
-table น469
+table ยน469
 {
   stronger - 1
   realtor - 1
@@ -6289,7 +6289,7 @@ table น469
   authorized - 1
 }
 
-table น470
+table ยน470
 {
   iraq - 1
   ipaq - 1
@@ -6297,7 +6297,7 @@ table น470
   bosnia - 1
 }
 
-table น471
+table ยน471
 {
   tracking - 1
   pdas - 1
@@ -6307,7 +6307,7 @@ table น471
   celebrate - 1
 }
 
-table น472
+table ยน472
 {
   peer - 1
   need - 1
@@ -6320,7 +6320,7 @@ table น472
   dallas - 1
 }
 
-table น473
+table ยน473
 {
   located - 1
   irrigation - 1
@@ -6329,7 +6329,7 @@ table น473
   exercise - 1
 }
 
-table น474
+table ยน474
 {
   stars - 1
   somewhat - 1
@@ -6340,7 +6340,7 @@ table น474
   chargers - 1
 }
 
-table น475
+table ยน475
 {
   start - 1
   sega - 1
@@ -6349,7 +6349,7 @@ table น475
   kids - 1
 }
 
-table น476
+table ยน476
 {
   titans - 1
   soap - 1
@@ -6365,7 +6365,7 @@ table น476
   anniversary - 1
 }
 
-table น477
+table ยน477
 {
   seed - 1
   midi - 1
@@ -6377,7 +6377,7 @@ table น477
   drawn - 1
 }
 
-table น478
+table ยน478
 {
   stan - 1
   scottish - 1
@@ -6386,7 +6386,7 @@ table น478
   accessing - 1
 }
 
-table น479
+table ยน479
 {
   strengthening - 1
   seen - 1
@@ -6398,14 +6398,14 @@ table น479
   brands - 1
 }
 
-table น480
+table ยน480
 {
   teen - 1
   january - 1
   czech - 1
 }
 
-table น481
+table ยน481
 {
   robinson - 1
   operations - 1
@@ -6418,7 +6418,7 @@ table น481
   bless - 1
 }
 
-table น482
+table ยน482
 {
   substantially - 1
   namibia - 1
@@ -6428,7 +6428,7 @@ table น482
   arrived - 1
 }
 
-table น483
+table ยน483
 {
   tablet - 1
   suffer - 1
@@ -6441,7 +6441,7 @@ table น483
   brakes - 1
 }
 
-table น484
+table ยน484
 {
   tables - 1
   reveal - 1
@@ -6455,14 +6455,14 @@ table น484
   attempting - 1
 }
 
-table น485
+table ยน485
 {
   software - 1
   household - 1
   determining - 1
 }
 
-table น486
+table ยน486
 {
   towards - 1
   star - 1
@@ -6474,7 +6474,7 @@ table น486
   breaking - 1
 }
 
-table น487
+table ยน487
 {
   severe - 1
   road - 1
@@ -6485,7 +6485,7 @@ table น487
   fleet - 1
 }
 
-table น488
+table ยน488
 {
   pb - 1
   lists - 1
@@ -6496,7 +6496,7 @@ table น488
   focuses - 1
 }
 
-table น489
+table ยน489
 {
   therapy - 1
   parental - 1
@@ -6506,7 +6506,7 @@ table น489
   artificial - 1
 }
 
-table น490
+table ยน490
 {
   shemale - 1
   reuters - 1
@@ -6517,7 +6517,7 @@ table น490
   extra - 1
 }
 
-table น491
+table ยน491
 {
   kitty - 1
   ga - 1
@@ -6527,7 +6527,7 @@ table น491
   cable - 1
 }
 
-table น492
+table ยน492
 {
   teaching - 1
   suspended - 1
@@ -6537,7 +6537,7 @@ table น492
   draft - 1
 }
 
-table น493
+table ยน493
 {
   requesting - 1
   outstanding - 1
@@ -6551,7 +6551,7 @@ table น493
   aware - 1
 }
 
-table น494
+table ยน494
 {
   survivors - 1
   stat - 1
@@ -6563,7 +6563,7 @@ table น494
   belong - 1
 }
 
-table น495
+table ยน495
 {
   senator - 1
   recommends - 1
@@ -6575,7 +6575,7 @@ table น495
   award - 1
 }
 
-table น496
+table ยน496
 {
   steering - 1
   instances - 1
@@ -6583,7 +6583,7 @@ table น496
   aaron - 1
 }
 
-table น497
+table ยน497
 {
   finished - 1
   educated - 1
@@ -6591,7 +6591,7 @@ table น497
   constraint - 1
 }
 
-table น498
+table ยน498
 {
   newest - 1
   identifying - 1
@@ -6604,14 +6604,14 @@ table น498
   acrobat - 1
 }
 
-table น499
+table ยน499
 {
   luxembourg - 1
   customized - 1
   canal - 1
 }
 
-table น500
+table ยน500
 {
   steve - 1
   molecular - 1
@@ -6619,7 +6619,7 @@ table น500
   everyone - 1
 }
 
-table น501
+table ยน501
 {
   sorts - 1
   originally - 1
@@ -6631,7 +6631,7 @@ table น501
   august - 1
 }
 
-table น502
+table ยน502
 {
   reward - 1
   np - 1
@@ -6642,7 +6642,7 @@ table น502
   average - 1
 }
 
-table น503
+table ยน503
 {
   telephone - 1
   sugar - 1
@@ -6655,7 +6655,7 @@ table น503
   ag - 1
 }
 
-table น504
+table ยน504
 {
   realized - 1
   observe - 1
@@ -6669,7 +6669,7 @@ table น504
   chubby - 1
 }
 
-table น505
+table ยน505
 {
   structure - 1
   punch - 1
@@ -6682,7 +6682,7 @@ table น505
   adaptation - 1
 }
 
-table น506
+table ยน506
 {
   studies - 1
   products - 1
@@ -6696,7 +6696,7 @@ table น506
   americans - 1
 }
 
-table น507
+table ยน507
 {
   search - 1
   response - 1
@@ -6706,7 +6706,7 @@ table น507
   greetings - 1
 }
 
-table น508
+table ยน508
 {
   suggesting - 1
   studied - 1
@@ -6724,7 +6724,7 @@ table น508
   alike - 1
 }
 
-table น509
+table ยน509
 {
   tragedy - 1
   traffic - 1
@@ -6735,7 +6735,7 @@ table น509
   camcorders - 1
 }
 
-table น510
+table ยน510
 {
   sudan - 1
   sexual - 1
@@ -6753,7 +6753,7 @@ table น510
   anime - 1
 }
 
-table น511
+table ยน511
 {
   ronald - 1
   packard - 1
@@ -6766,7 +6766,7 @@ table น511
   acids - 1
 }
 
-table น512
+table ยน512
 {
   roland - 1
   projected - 1
@@ -6775,7 +6775,7 @@ table น512
   distances - 1
 }
 
-table น513
+table ยน513
 {
   responded - 1
   partition - 1
@@ -6786,7 +6786,7 @@ table น513
   agenda - 1
 }
 
-table น514
+table ยน514
 {
   together - 1
   pp - 1
@@ -6800,7 +6800,7 @@ table น514
   arcade - 1
 }
 
-table น515
+table ยน515
 {
   signing - 1
   population - 1
@@ -6810,7 +6810,7 @@ table น515
   appearance - 1
 }
 
-table น516
+table ยน516
 {
   solution - 1
   professor - 1
@@ -6827,7 +6827,7 @@ table น516
   alone - 1
 }
 
-table น517
+table ยน517
 {
   telephony - 1
   scales - 1
@@ -6838,7 +6838,7 @@ table น517
   among - 1
 }
 
-table น518
+table ยน518
 {
   stops - 1
   steps - 1
@@ -6855,7 +6855,7 @@ table น518
   anybody - 1
 }
 
-table น519
+table ยน519
 {
   regarding - 1
   parliamentary - 1
@@ -6867,7 +6867,7 @@ table น519
   aa - 1
 }
 
-table น520
+table ยน520
 {
   tenant - 1
   profiles - 1
@@ -6878,7 +6878,7 @@ table น520
   colleague - 1
 }
 
-table น521
+table ยน521
 {
   ok - 1
   lifestyle - 1
@@ -6888,7 +6888,7 @@ table น521
   bargain - 1
 }
 
-table น522
+table ยน522
 {
   tc - 1
   stretch - 1
@@ -6904,7 +6904,7 @@ table น522
   allocation - 1
 }
 
-table น523
+table ยน523
 {
   reach - 1
   plains - 1
@@ -6916,7 +6916,7 @@ table น523
   charging - 1
 }
 
-table น524
+table ยน524
 {
   story - 1
   store - 1
@@ -6933,7 +6933,7 @@ table น524
   alias - 1
 }
 
-table น525
+table ยน525
 {
   teach - 1
   stewart - 1
@@ -6948,7 +6948,7 @@ table น525
   awesome - 1
 }
 
-table น526
+table ยน526
 {
   targeted - 1
   reduce - 1
@@ -6963,7 +6963,7 @@ table น526
   analyze - 1
 }
 
-table น527
+table ยน527
 {
   sought - 1
   solve - 1
@@ -6974,7 +6974,7 @@ table น527
   adjustment - 1
 }
 
-table น528
+table ยน528
 {
   thompson - 1
   palace - 1
@@ -6988,7 +6988,7 @@ table น528
   anthony - 1
 }
 
-table น529
+table ยน529
 {
   syndication - 1
   substances - 1
@@ -7001,7 +7001,7 @@ table น529
   catch - 1
 }
 
-table น530
+table ยน530
 {
   said - 1
   restored - 1
@@ -7015,7 +7015,7 @@ table น530
   bangkok - 1
 }
 
-table น531
+table ยน531
 {
   supporting - 1
   sale - 1
@@ -7029,7 +7029,7 @@ table น531
   cloth - 1
 }
 
-table น532
+table ยน532
 {
   take - 1
   sculpture - 1
@@ -7046,7 +7046,7 @@ table น532
   biographies - 1
 }
 
-table น533
+table ยน533
 {
   skiing - 1
   radiation - 1
@@ -7060,7 +7060,7 @@ table น533
   amino - 1
 }
 
-table น534
+table ยน534
 {
   streams - 1
   specialist - 1
@@ -7075,7 +7075,7 @@ table น534
   breakdown - 1
 }
 
-table น535
+table ยน535
 {
   sewing - 1
   serve - 1
@@ -7091,7 +7091,7 @@ table น535
   arch - 1
 }
 
-table น536
+table ยน536
 {
   sand - 1
   ready - 1
@@ -7106,7 +7106,7 @@ table น536
   display - 1
 }
 
-table น537
+table ยน537
 {
   theoretical - 1
   sweden - 1
@@ -7125,7 +7125,7 @@ table น537
   authority - 1
 }
 
-table น538
+table ยน538
 {
   total - 1
   tokyo - 1
@@ -7148,7 +7148,7 @@ table น538
   butts - 1
 }
 
-table น539
+table ยน539
 {
   sample - 1
   oaks - 1
@@ -7157,7 +7157,7 @@ table น539
   burst - 1
 }
 
-table น540
+table ยน540
 {
   tickets - 1
   texas - 1
@@ -7177,7 +7177,7 @@ table น540
   alberta - 1
 }
 
-table น541
+table ยน541
 {
   scout - 1
   milfs - 1
@@ -7189,7 +7189,7 @@ table น541
   calculate - 1
 }
 
-table น542
+table ยน542
 {
   tools - 1
   suited - 1
@@ -7204,7 +7204,7 @@ table น542
   busty - 1
 }
 
-table น543
+table ยน543
 {
   suites - 1
   subscription - 1
@@ -7220,7 +7220,7 @@ table น543
   ak - 1
 }
 
-table น544
+table ยน544
 {
   telecom - 1
   salt - 1
@@ -7236,7 +7236,7 @@ table น544
   administrative - 1
 }
 
-table น545
+table ยน545
 {
   souls - 1
   signal - 1
@@ -7251,7 +7251,7 @@ table น545
   approach - 1
 }
 
-table น546
+table ยน546
 {
   toshiba - 1
   script - 1
@@ -7267,7 +7267,7 @@ table น546
   ampland - 1
 }
 
-table น547
+table ยน547
 {
   sans - 1
   portraits - 1
@@ -7277,7 +7277,7 @@ table น547
   active - 1
 }
 
-table น548
+table ยน548
 {
   roots - 1
   roles - 1
@@ -7295,7 +7295,7 @@ table น548
   accordance - 1
 }
 
-table น549
+table ยน549
 {
   taxation - 1
   specially - 1
@@ -7308,7 +7308,7 @@ table น549
   accepted - 1
 }
 
-table น550
+table ยน550
 {
   tours - 1
   tones - 1
@@ -7326,7 +7326,7 @@ table น550
   abandoned - 1
 }
 
-table น551
+table ยน551
 {
   tooth - 1
   systems - 1
@@ -7338,7 +7338,7 @@ table น551
   bathroom - 1
 }
 
-table น552
+table ยน552
 {
   strip - 1
   south - 1
@@ -7353,7 +7353,7 @@ table น552
   administrators - 1
 }
 
-table น553
+table ยน553
 {
   sounds - 1
   songs - 1
@@ -7368,7 +7368,7 @@ table น553
   beer - 1
 }
 
-table น554
+table ยน554
 {
   tommy - 1
   tail - 1
@@ -7380,7 +7380,7 @@ table น554
   exempt - 1
 }
 
-table น555
+table ยน555
 {
   timeline - 1
   thomas - 1
@@ -7394,7 +7394,7 @@ table น555
   baseball - 1
 }
 
-table น556
+table ยน556
 {
   tank - 1
   talk - 1
@@ -7409,7 +7409,7 @@ table น556
   amount - 1
 }
 
-table น557
+table ยน557
 {
   trading - 1
   still - 1
@@ -7418,7 +7418,7 @@ table น557
   been - 1
 }
 
-table น558
+table ยน558
 {
   styles - 1
   stephanie - 1
@@ -7433,7 +7433,7 @@ table น558
   aged - 1
 }
 
-table น559
+table ยน559
 {
   sick - 1
   resulted - 1
@@ -7447,7 +7447,7 @@ table น559
   ages - 1
 }
 
-table น560
+table ยน560
 {
   shakira - 1
   semiconductor - 1
@@ -7460,7 +7460,7 @@ table น560
   canadian - 1
 }
 
-table น561
+table ยน561
 {
   trainerageMaker - 1
   trader - 1
@@ -7475,7 +7475,7 @@ table น561
   dialogue - 1
 }
 
-table น562
+table ยน562
 {
   strongly - 1
   stability - 1
@@ -7492,7 +7492,7 @@ table น562
   album - 1
 }
 
-table น563
+table ยน563
 {
   sector - 1
   salmon - 1
@@ -7508,7 +7508,7 @@ table น563
   castle - 1
 }
 
-table น564
+table ยน564
 {
   td - 1
   swap - 1
@@ -7525,7 +7525,7 @@ table น564
   anyway - 1
 }
 
-table น565
+table ยน565
 {
   trades - 1
   sydney - 1
@@ -7537,7 +7537,7 @@ table น565
   cheap - 1
 }
 
-table น566
+table ยน566
 {
   junk - 1
   judy - 1
@@ -7551,7 +7551,7 @@ table น566
   boat - 1
 }
 
-table น567
+table ยน567
 {
   invitations - 1
   guests - 1
@@ -7562,7 +7562,7 @@ table น567
   cardiac - 1
 }
 
-table น568
+table ยน568
 {
   ride - 1
   representing - 1
@@ -7574,7 +7574,7 @@ table น568
   body - 1
 }
 
-table น569
+table ยน569
 {
   side - 1
   scenes - 1
@@ -7583,7 +7583,7 @@ table น569
   climbing - 1
 }
 
-table น570
+table ยน570
 {
   struck - 1
   spec - 1
@@ -7600,7 +7600,7 @@ table น570
   acoustic - 1
 }
 
-table น571
+table ยน571
 {
   telescope - 1
   masturbating - 1
@@ -7610,7 +7610,7 @@ table น571
   account - 1
 }
 
-table น572
+table ยน572
 {
   pm - 1
   pics - 1
@@ -7624,7 +7624,7 @@ table น572
   autumn - 1
 }
 
-table น573
+table ยน573
 {
   switches - 1
   switched - 1
@@ -7640,7 +7640,7 @@ table น573
   announcements - 1
 }
 
-table น574
+table ยน574
 {
   totals - 1
   tested - 1
@@ -7657,7 +7657,7 @@ table น574
   assisted - 1
 }
 
-table น575
+table ยน575
 {
   season - 1
   priced - 1
@@ -7668,7 +7668,7 @@ table น575
   ahead - 1
 }
 
-table น576
+table ยน576
 {
   ties - 1
   tier - 1
@@ -7677,7 +7677,7 @@ table น576
   appraisal - 1
 }
 
-table น577
+table ยน577
 {
   shed - 1
   sc - 1
@@ -7689,7 +7689,7 @@ table น577
   architecture - 1
 }
 
-table น578
+table ยน578
 {
   tied - 1
   selection - 1
@@ -7705,7 +7705,7 @@ table น578
   accent - 1
 }
 
-table น579
+table ยน579
 {
   pollution - 1
   mode - 1
@@ -7715,7 +7715,7 @@ table น579
   accused - 1
 }
 
-table น580
+table ยน580
 {
   tide - 1
   template - 1
@@ -7727,7 +7727,7 @@ table น580
   dt - 1
 }
 
-table น581
+table ยน581
 {
   reid - 1
   manufactured - 1
@@ -7737,7 +7737,7 @@ table น581
   associated - 1
 }
 
-table น582
+table ยน582
 {
   staff - 1
   political - 1
@@ -7749,7 +7749,7 @@ table น582
   fears - 1
 }
 
-table น583
+table ยน583
 {
   thinkpad - 1
   proceeds - 1
@@ -7758,7 +7758,7 @@ table น583
   access - 1
 }
 
-table น584
+table ยน584
 {
   teens - 1
   peers - 1
@@ -7773,7 +7773,7 @@ table น584
   arbitration - 1
 }
 
-table น585
+table ยน585
 {
   synopsis - 1
   structures - 1
@@ -7786,7 +7786,7 @@ table น585
   cattle - 1
 }
 
-table น586
+table ยน586
 {
   stack - 1
   shannon - 1
@@ -7798,7 +7798,7 @@ table น586
   buck - 1
 }
 
-table น587
+table ยน587
 {
   informational - 1
   companies - 1
@@ -7807,7 +7807,7 @@ table น587
   acdbentity - 1
 }
 
-table น588
+table ยน588
 {
   telecharger - 1
   struct - 1
@@ -7821,7 +7821,7 @@ table น588
   breakfast - 1
 }
 
-table น589
+table ยน589
 {
   tell - 1
   sussex - 1
@@ -7831,13 +7831,13 @@ table น589
   advocacy - 1
 }
 
-table น590
+table ยน590
 {
   state - 1
   ancient - 1
 }
 
-table น591
+table ยน591
 {
   thoughts - 1
   teeth - 1
@@ -7851,7 +7851,7 @@ table น591
   applied - 1
 }
 
-table น592
+table ยน592
 {
   specials - 1
   mandatory - 1
@@ -7860,7 +7860,7 @@ table น592
   applies - 1
 }
 
-table น593
+table ยน593
 {
   pharmacy - 1
   knowledgestorm - 1
@@ -7869,7 +7869,7 @@ table น593
   another - 1
 }
 
-table น594
+table ยน594
 {
   stays - 1
   shareholders - 1
@@ -7880,7 +7880,7 @@ table น594
   classification - 1
 }
 
-table น595
+table ยน595
 {
   sofa - 1
   kyle - 1
@@ -7893,7 +7893,7 @@ table น595
   affect - 1
 }
 
-table น596
+table ยน596
 {
   searchcom - 1
   roads - 1
@@ -7908,7 +7908,7 @@ table น596
   alex - 1
 }
 
-table น597
+table ยน597
 {
   percentage - 1
   occupational - 1
@@ -7918,7 +7918,7 @@ table น597
   blow - 1
 }
 
-table น598
+table ยน598
 {
   stevens - 1
   southwest - 1
@@ -7928,7 +7928,7 @@ table น598
   clothes - 1
 }
 
-table น599
+table ยน599
 {
   slovenia - 1
   important - 1
@@ -7938,7 +7938,7 @@ table น599
   cunt - 1
 }
 
-table น600
+table ยน600
 {
   todd - 1
   robin - 1
@@ -7956,7 +7956,7 @@ table น600
   child - 1
 }
 
-table น601
+table ยน601
 {
   supposed - 1
   neil - 1
@@ -7968,7 +7968,7 @@ table น601
   animation - 1
 }
 
-table น602
+table ยน602
 {
   stats - 1
   recover - 1
@@ -7980,7 +7980,7 @@ table น602
   carriers - 1
 }
 
-table น603
+table ยน603
 {
   sync - 1
   suck - 1
@@ -7993,7 +7993,7 @@ table น603
   away - 1
 }
 
-table น604
+table ยน604
 {
   supervisors - 1
   such - 1
@@ -8008,7 +8008,7 @@ table น604
   amend - 1
 }
 
-table น605
+table ยน605
 {
   thumbnails - 1
   subscribers - 1
@@ -8026,7 +8026,7 @@ table น605
   amended - 1
 }
 
-table น606
+table ยน606
 {
   romania - 1
   results - 1
@@ -8043,7 +8043,7 @@ table น606
   artists - 1
 }
 
-table น607
+table ยน607
 {
   terrorism - 1
   temporary - 1
@@ -8054,7 +8054,7 @@ table น607
   alter - 1
 }
 
-table น608
+table ยน608
 {
   speech - 1
   province - 1
@@ -8066,7 +8066,7 @@ table น608
   developing - 1
 }
 
-table น609
+table ยน609
 {
   terminals - 1
   soldiers - 1
@@ -8082,7 +8082,7 @@ table น609
   acid - 1
 }
 
-table น610
+table ยน610
 {
   ryan - 1
   residential - 1
@@ -8092,7 +8092,7 @@ table น610
   able - 1
 }
 
-table น611
+table ยน611
 {
   terrorist - 1
   placing - 1
@@ -8105,7 +8105,7 @@ table น611
   afford - 1
 }
 
-table น612
+table ยน612
 {
   storage - 1
   laptops - 1
@@ -8114,7 +8114,7 @@ table น612
   editor - 1
 }
 
-table น613
+table ยน613
 {
   survive - 1
   step - 1
@@ -8126,7 +8126,7 @@ table น613
   automobiles - 1
 }
 
-table น614
+table ยน614
 {
   terrorists - 1
   runs - 1
@@ -8138,7 +8138,7 @@ table น614
   avoid - 1
 }
 
-table น615
+table ยน615
 {
   sv - 1
   religious - 1
@@ -8150,7 +8150,7 @@ table น615
   careers - 1
 }
 
-table น616
+table ยน616
 {
   tourism - 1
   soft - 1
@@ -8164,7 +8164,7 @@ table น616
   attorney - 1
 }
 
-table น617
+table ยน617
 {
   theorem - 1
   society - 1
@@ -8177,7 +8177,7 @@ table น617
   calcium - 1
 }
 
-table น618
+table ยน618
 {
   tourist - 1
   resource - 1
@@ -8196,7 +8196,7 @@ table น618
   answers - 1
 }
 
-table น619
+table ยน619
 {
   strand - 1
   richardson - 1
@@ -8206,7 +8206,7 @@ table น619
   au - 1
 }
 
-table น620
+table ยน620
 {
   tournaments - 1
   stem - 1
@@ -8218,7 +8218,7 @@ table น620
   drill - 1
 }
 
-table น621
+table ยน621
 {
   shemales - 1
   serbia - 1
@@ -8232,7 +8232,7 @@ table น621
   concerned - 1
 }
 
-table น622
+table ยน622
 {
   pottery - 1
   division - 1
@@ -8241,7 +8241,7 @@ table น622
   angle - 1
 }
 
-table น623
+table ยน623
 {
   tonight - 1
   subsection - 1
@@ -8255,7 +8255,7 @@ table น623
   christopher - 1
 }
 
-table น624
+table ยน624
 {
   reduction - 1
   oregon - 1
@@ -8270,7 +8270,7 @@ table น624
   bc - 1
 }
 
-table น625
+table ยน625
 {
   melissa - 1
   floyd - 1
@@ -8278,7 +8278,7 @@ table น625
   alert - 1
 }
 
-table น626
+table ยน626
 {
   sticks - 1
   speeds - 1
@@ -8294,7 +8294,7 @@ table น626
   blond - 1
 }
 
-table น627
+table ยน627
 {
   sells - 1
   cams - 1
@@ -8304,7 +8304,7 @@ table น627
   audit - 1
 }
 
-table น628
+table ยน628
 {
   spelling - 1
   re - 1
@@ -8319,7 +8319,7 @@ table น628
   ad - 1
 }
 
-table น629
+table ยน629
 {
   maintenance - 1
   flour - 1
@@ -8327,7 +8327,7 @@ table น629
   aquatic - 1
 }
 
-table น630
+table ยน630
 {
   stood - 1
   rehab - 1
@@ -8342,7 +8342,7 @@ table น630
   angry - 1
 }
 
-table น631
+table ยน631
 {
   richard - 1
   retrieve - 1
@@ -8353,7 +8353,7 @@ table น631
   afghanistan - 1
 }
 
-table น632
+table ยน632
 {
   represent - 1
   relax - 1
@@ -8373,7 +8373,7 @@ table น632
   arnold - 1
 }
 
-table น633
+table ยน633
 {
   radar - 1
   primary - 1
@@ -8386,7 +8386,7 @@ table น633
   cornwall - 1
 }
 
-table น634
+table ยน634
 {
   trailers - 1
   relay - 1
@@ -8399,7 +8399,7 @@ table น634
   bank - 1
 }
 
-table น635
+table ยน635
 {
   photographs - 1
   phases - 1
@@ -8413,7 +8413,7 @@ table น635
   calm - 1
 }
 
-table น636
+table ยน636
 {
   steal - 1
   queen - 1
@@ -8430,7 +8430,7 @@ table น636
   acknowledge - 1
 }
 
-table น637
+table ยน637
 {
   strain - 1
   sacramento - 1
@@ -8444,7 +8444,7 @@ table น637
   apartments - 1
 }
 
-table น638
+table ยน638
 {
   sticky - 1
   steam - 1
@@ -8457,7 +8457,7 @@ table น638
   buddy - 1
 }
 
-table น639
+table ยน639
 {
   seeking - 1
   saver - 1
@@ -8470,7 +8470,7 @@ table น639
   bridges - 1
 }
 
-table น640
+table ยน640
 {
   softball - 1
   lexus - 1
@@ -8480,7 +8480,7 @@ table น640
   array - 1
 }
 
-table น641
+table ยน641
 {
   respective - 1
   multi - 1
@@ -8489,7 +8489,7 @@ table น641
   drawings - 1
 }
 
-table น642
+table ยน642
 {
   superb - 1
   shuttle - 1
@@ -8501,7 +8501,7 @@ table น642
   catholic - 1
 }
 
-table น643
+table ยน643
 {
   scroll - 1
   saves - 1
@@ -8513,7 +8513,7 @@ table น643
   digital - 1
 }
 
-table น644
+table ยน644
 {
   taxes - 1
   taking - 1
@@ -8531,7 +8531,7 @@ table น644
   australian - 1
 }
 
-table น645
+table ยน645
 {
   screen - 1
   persistent - 1
@@ -8541,7 +8541,7 @@ table น645
   baltimore - 1
 }
 
-table น646
+table ยน646
 {
   inquire - 1
   indian - 1
@@ -8550,14 +8550,14 @@ table น646
   brighton - 1
 }
 
-table น647
+table ยน647
 {
   suppose - 1
   singapore - 1
   messenger - 1
 }
 
-table น648
+table ยน648
 {
   pupils - 1
   proposed - 1
@@ -8567,7 +8567,7 @@ table น648
   engaged - 1
 }
 
-table น649
+table ยน649
 {
   thousands - 1
   sunny - 1
@@ -8577,14 +8577,14 @@ table น649
   adjustable - 1
 }
 
-table น650
+table ยน650
 {
   riding - 1
   forwarding - 1
   economies - 1
 }
 
-table น651
+table ยน651
 {
   thereof - 1
   talent - 1
@@ -8593,7 +8593,7 @@ table น651
   mobiles - 1
 }
 
-table น652
+table ยน652
 {
   owned - 1
   neighbor - 1
@@ -8603,7 +8603,7 @@ table น652
   acquisitions - 1
 }
 
-table น653
+table ยน653
 {
   trails - 1
   subdivision - 1
@@ -8612,7 +8612,7 @@ table น653
   corners - 1
 }
 
-table น654
+table ยน654
 {
   topics - 1
   stone - 1
@@ -8627,7 +8627,7 @@ table น654
   bermuda - 1
 }
 
-table น655
+table ยน655
 {
   spectacular - 1
   religions - 1
@@ -8635,7 +8635,7 @@ table น655
   adequate - 1
 }
 
-table น656
+table ยน656
 {
   rwanda - 1
   ozone - 1
@@ -8648,7 +8648,7 @@ table น656
   algorithm - 1
 }
 
-table น657
+table ยน657
 {
   sport - 1
   si - 1
@@ -8659,7 +8659,7 @@ table น657
   cc - 1
 }
 
-table น658
+table ยน658
 {
   fighter - 1
   enterprises - 1
@@ -8668,7 +8668,7 @@ table น658
   bikes - 1
 }
 
-table น659
+table ยน659
 {
   modems - 1
   jr - 1
@@ -8678,7 +8678,7 @@ table น659
   argument - 1
 }
 
-table น660
+table ยน660
 {
   pregnancy - 1
   insured - 1
@@ -8687,7 +8687,7 @@ table น660
   alice - 1
 }
 
-table น661
+table ยน661
 {
   swiss - 1
   skilled - 1
@@ -8697,7 +8697,7 @@ table น661
   industrial - 1
 }
 
-table น662
+table ยน662
 {
   reverse - 1
   revenue - 1
@@ -8716,7 +8716,7 @@ table น662
   alphabetical - 1
 }
 
-table น663
+table ยน663
 {
   support - 1
   prohibited - 1
@@ -8733,7 +8733,7 @@ table น663
   advertise - 1
 }
 
-table น664
+table ยน664
 {
   surgeons - 1
   sb - 1
@@ -8752,7 +8752,7 @@ table น664
   addressed - 1
 }
 
-table น665
+table ยน665
 {
   thereby - 1
   theatre - 1
@@ -8764,7 +8764,7 @@ table น665
   loaded - 1
 }
 
-table น666
+table ยน666
 {
   stick - 1
   sender - 1
@@ -8779,7 +8779,7 @@ table น666
   carolina - 1
 }
 
-table น667
+table ยน667
 {
   preventing - 1
   laid - 1
@@ -8789,7 +8789,7 @@ table น667
   acting - 1
 }
 
-table น668
+table ยน668
 {
   rural - 1
   likes - 1
@@ -8808,7 +8808,7 @@ table น668
   adipex - 1
 }
 
-table น669
+table ยน669
 {
   peripherals - 1
   mixed - 1
@@ -8823,7 +8823,7 @@ table น669
   cell - 1
 }
 
-table น670
+table ยน670
 {
   review - 1
   retain - 1
@@ -8834,7 +8834,7 @@ table น670
   beings - 1
 }
 
-table น671
+table ยน671
 {
   susan - 1
   supreme - 1
@@ -8848,7 +8848,7 @@ table น671
   containers - 1
 }
 
-table น672
+table ยน672
 {
   strap - 1
   speakers - 1
@@ -8859,7 +8859,7 @@ table น672
   crack - 1
 }
 
-table น673
+table ยน673
 {
   land - 1
   engineer - 1
@@ -8867,7 +8867,7 @@ table น673
   absent - 1
 }
 
-table น674
+table ยน674
 {
   remarks - 1
   generally - 1
@@ -8875,7 +8875,7 @@ table น674
   accounting - 1
 }
 
-table น675
+table ยน675
 {
   terrible - 1
   mw - 1
@@ -8889,7 +8889,7 @@ table น675
   cardiff - 1
 }
 
-table น676
+table ยน676
 {
   rover - 1
   lang - 1
@@ -8897,7 +8897,7 @@ table น676
   belt - 1
 }
 
-table น677
+table ยน677
 {
   suppliers - 1
   statutes - 1
@@ -8906,7 +8906,7 @@ table น677
   gateway - 1
 }
 
-table น678
+table ยน678
 {
   nike - 1
   monitored - 1
@@ -8918,7 +8918,7 @@ table น678
   advocate - 1
 }
 
-table น679
+table ยน679
 {
   remaining - 1
   photos - 1
@@ -8930,7 +8930,7 @@ table น679
   actually - 1
 }
 
-table น680
+table ยน680
 {
   registration - 1
   hazards - 1
@@ -8941,7 +8941,7 @@ table น680
   contamination - 1
 }
 
-table น681
+table ยน681
 {
   queries - 1
   quarter - 1
@@ -8951,7 +8951,7 @@ table น681
   beverages - 1
 }
 
-table น682
+table ยน682
 {
   token - 1
   questionnaire - 1
@@ -8967,7 +8967,7 @@ table น682
   action - 1
 }
 
-table น683
+table ยน683
 {
   servers - 1
   sailing - 1
@@ -8980,7 +8980,7 @@ table น683
   competitive - 1
 }
 
-table น684
+table ยน684
 {
   sciences - 1
   restore - 1
@@ -8993,7 +8993,7 @@ table น684
   battlefield - 1
 }
 
-table น685
+table ยน685
 {
   tractor - 1
   tennessee - 1
@@ -9009,7 +9009,7 @@ table น685
   apart - 1
 }
 
-table น686
+table ยน686
 {
   studio - 1
   sparc - 1
@@ -9022,7 +9022,7 @@ table น686
   beliefs - 1
 }
 
-table น687
+table ยน687
 {
   surely - 1
   hall - 1
@@ -9033,7 +9033,7 @@ table น687
   concerning - 1
 }
 
-table น688
+table ยน688
 {
   spare - 1
   ranked - 1
@@ -9048,7 +9048,7 @@ table น688
   crash - 1
 }
 
-table น689
+table ยน689
 {
   thai - 1
   stockings - 1
@@ -9063,7 +9063,7 @@ table น689
   amounts - 1
 }
 
-table น690
+table ยน690
 {
   than - 1
   talked - 1
@@ -9074,7 +9074,7 @@ table น690
   cluster - 1
 }
 
-table น691
+table ยน691
 {
   thongs - 1
   surveys - 1
@@ -9091,7 +9091,7 @@ table น691
   blessed - 1
 }
 
-table น692
+table ยน692
 {
   thousand - 1
   routers - 1
@@ -9104,7 +9104,7 @@ table น692
   creator - 1
 }
 
-table น693
+table ยน693
 {
   subaru - 1
   receiver - 1
@@ -9112,7 +9112,7 @@ table น693
   cgi - 1
 }
 
-table น694
+table ยน694
 {
   themselves - 1
   requested - 1
@@ -9127,14 +9127,14 @@ table น694
   constant - 1
 }
 
-table น695
+table ยน695
 {
   purchase - 1
   patient - 1
   combine - 1
 }
 
-table น696
+table ยน696
 {
   statistics - 1
   shit - 1
@@ -9151,7 +9151,7 @@ table น696
   available - 1
 }
 
-table น697
+table ยน697
 {
   markets - 1
   markers - 1
@@ -9164,7 +9164,7 @@ table น697
   bristol - 1
 }
 
-table น698
+table ยน698
 {
   physiology - 1
   perform - 1
@@ -9178,7 +9178,7 @@ table น698
   attractions - 1
 }
 
-table น699
+table ยน699
 {
   sectors - 1
   oak - 1
@@ -9188,7 +9188,7 @@ table น699
   finishing - 1
 }
 
-table น700
+table ยน700
 {
   titanium - 1
   teacher - 1
@@ -9203,7 +9203,7 @@ table น700
   appears - 1
 }
 
-table น701
+table ยน701
 {
   prominent - 1
   october - 1
@@ -9212,7 +9212,7 @@ table น701
   electoral - 1
 }
 
-table น702
+table ยน702
 {
   tradition - 1
   specialty - 1
@@ -9224,7 +9224,7 @@ table น702
   arc - 1
 }
 
-table น703
+table ยน703
 {
   prince - 1
   pan - 1
@@ -9238,7 +9238,7 @@ table น703
   coastal - 1
 }
 
-table น704
+table ยน704
 {
   teaches - 1
   parents - 1
@@ -9253,7 +9253,7 @@ table น704
   cashiers - 1
 }
 
-table น705
+table ยน705
 {
   skip - 1
   plot - 1
@@ -9263,7 +9263,7 @@ table น705
   dpi - 1
 }
 
-table น706
+table ยน706
 {
   that - 1
   staffing - 1
@@ -9283,7 +9283,7 @@ table น706
   are - 1
 }
 
-table น707
+table ยน707
 {
   thou - 1
   technique - 1
@@ -9298,7 +9298,7 @@ table น707
   app - 1
 }
 
-table น708
+table ยน708
 {
   tan - 1
   slim - 1
@@ -9311,7 +9311,7 @@ table น708
   diego - 1
 }
 
-table น709
+table ยน709
 {
   speaking - 1
   skin - 1
@@ -9321,7 +9321,7 @@ table น709
   downloadcom - 1
 }
 
-table น710
+table ยน710
 {
   stage - 1
   spa - 1
@@ -9338,7 +9338,7 @@ table น710
   basics - 1
 }
 
-table น711
+table ยน711
 {
   seafood - 1
   par - 1
@@ -9350,7 +9350,7 @@ table น711
   apr - 1
 }
 
-table น712
+table ยน712
 {
   tigers - 1
   tap - 1
@@ -9366,7 +9366,7 @@ table น712
   ambassador - 1
 }
 
-table น713
+table ยน713
 {
   refer - 1
   pediatric - 1
@@ -9381,7 +9381,7 @@ table น713
   asp - 1
 }
 
-table น714
+table ยน714
 {
   rotation - 1
   ps - 1
@@ -9394,7 +9394,7 @@ table น714
   arg - 1
 }
 
-table น715
+table ยน715
 {
   sas - 1
   rb - 1
@@ -9411,7 +9411,7 @@ table น715
   bridge - 1
 }
 
-table น716
+table ยน716
 {
   tar - 1
   tab - 1
@@ -9431,7 +9431,7 @@ table น716
   flower - 1
 }
 
-table น717
+table ยน717
 {
   reseller - 1
   periodically - 1
@@ -9440,7 +9440,7 @@ table น717
   blades - 1
 }
 
-table น718
+table ยน718
 {
   ray - 1
   pcs - 1
@@ -9458,7 +9458,7 @@ table น718
   af - 1
 }
 
-table น719
+table ยน719
 {
   serving - 1
   say - 1
@@ -9479,7 +9479,7 @@ table น719
   apt - 1
 }
 
-table น720
+table ยน720
 {
   tax - 1
   src - 1
@@ -9502,7 +9502,7 @@ table น720
   blocking - 1
 }
 
-table น721
+table ยน721
 {
   sat - 1
   sad - 1
@@ -9519,7 +9519,7 @@ table น721
   ash - 1
 }
 
-table น722
+table ยน722
 {
   to - 1
   regarded - 1
@@ -9539,7 +9539,7 @@ table น722
   arm - 1
 }
 
-table น723
+table ยน723
 {
   survivor - 1
   stickers - 1
@@ -9550,7 +9550,7 @@ table น723
   conferences - 1
 }
 
-table น724
+table ยน724
 {
   postage - 1
   optimum - 1
@@ -9565,7 +9565,7 @@ table น724
   assumptions - 1
 }
 
-table น725
+table ยน725
 {
   nicaragua - 1
   mistake - 1
@@ -9579,7 +9579,7 @@ table น725
   arkansas - 1
 }
 
-table น726
+table ยน726
 {
   shelter - 1
   rebecca - 1
@@ -9592,7 +9592,7 @@ table น726
   buttons - 1
 }
 
-table น727
+table ยน727
 {
   sr - 1
   shield - 1
@@ -9608,7 +9608,7 @@ table น727
   channels - 1
 }
 
-table น728
+table ยน728
 {
   rs - 1
   regional - 1
@@ -9621,7 +9621,7 @@ table น728
   contribute - 1
 }
 
-table น729
+table ยน729
 {
   thought - 1
   retirement - 1
@@ -9632,7 +9632,7 @@ table น729
   attempt - 1
 }
 
-table น730
+table ยน730
 {
   touring - 1
   subscriber - 1
@@ -9647,7 +9647,7 @@ table น730
   absence - 1
 }
 
-table น731
+table ยน731
 {
   serious - 1
   residents - 1
@@ -9664,7 +9664,7 @@ table น731
   br - 1
 }
 
-table น732
+table ยน732
 {
   retreat - 1
   rentcom - 1
@@ -9678,7 +9678,7 @@ table น732
   a - 1
 }
 
-table น733
+table ยน733
 {
   service - 1
   russian - 1
@@ -9693,7 +9693,7 @@ table น733
   advertisements - 1
 }
 
-table น734
+table ยน734
 {
   spy - 1
   scenario - 1
@@ -9709,7 +9709,7 @@ table น734
   begins - 1
 }
 
-table น735
+table ยน735
 {
   session - 1
   section - 1
@@ -9726,7 +9726,7 @@ table น735
   bangladesh - 1
 }
 
-table น736
+table ยน736
 {
   testing - 1
   pst - 1
@@ -9747,7 +9747,7 @@ table น736
   adoption - 1
 }
 
-table น737
+table ยน737
 {
   sql - 1
   sodium - 1
@@ -9761,7 +9761,7 @@ table น737
   block - 1
 }
 
-table น738
+table ยน738
 {
   sticker - 1
   shipped - 1
@@ -9776,7 +9776,7 @@ table น738
   click - 1
 }
 
-table น739
+table ยน739
 {
   thomson - 1
   myspace - 1
@@ -9789,7 +9789,7 @@ table น739
   briefs - 1
 }
 
-table น740
+table ยน740
 {
   suspension - 1
   sri - 1
@@ -9805,7 +9805,7 @@ table น740
   angel - 1
 }
 
-table น741
+table ยน741
 {
   screw - 1
   scale - 1
@@ -9814,7 +9814,7 @@ table น741
   blues - 1
 }
 
-table น742
+table ยน742
 {
   sword - 1
   stolen - 1
@@ -9826,7 +9826,7 @@ table น742
   classified - 1
 }
 
-table น743
+table ยน743
 {
   suicide - 1
   l - 1
@@ -9835,7 +9835,7 @@ table น743
   basename - 1
 }
 
-table น744
+table ยน744
 {
   rw - 1
   routing - 1
@@ -9850,7 +9850,7 @@ table น744
   adults - 1
 }
 
-table น745
+table ยน745
 {
   oscar - 1
   n - 1
@@ -9859,7 +9859,7 @@ table น745
   beaver - 1
 }
 
-table น746
+table ยน746
 {
   o - 1
   nursing - 1
@@ -9872,7 +9872,7 @@ table น746
   assignments - 1
 }
 
-table น747
+table ยน747
 {
   sitting - 1
   p - 1
@@ -9889,7 +9889,7 @@ table น747
   al - 1
 }
 
-table น748
+table ยน748
 {
   thanksgiving - 1
   shareware - 1
@@ -9904,7 +9904,7 @@ table น748
   crime - 1
 }
 
-table น749
+table ยน749
 {
   r - 1
   depending - 1
@@ -9915,7 +9915,7 @@ table น749
   actively - 1
 }
 
-table น750
+table ยน750
 {
   s - 1
   posting - 1
@@ -9928,7 +9928,7 @@ table น750
   correctly - 1
 }
 
-table น751
+table ยน751
 {
   t - 1
   gadgets - 1
@@ -9943,7 +9943,7 @@ table น751
   attached - 1
 }
 
-table น752
+table ยน752
 {
   preserve - 1
   paste - 1
@@ -9953,7 +9953,7 @@ table น752
   arise - 1
 }
 
-table น753
+table ยน753
 {
   investments - 1
   guild - 1
@@ -9962,7 +9962,7 @@ table น753
   capable - 1
 }
 
-table น754
+table ยน754
 {
   stopping - 1
   ought - 1
@@ -9972,7 +9972,7 @@ table น754
   anger - 1
 }
 
-table น755
+table ยน755
 {
   sympathy - 1
   roulette - 1
@@ -9986,7 +9986,7 @@ table น755
   asian - 1
 }
 
-table น756
+table ยน756
 {
   taste - 1
   taiwan - 1
@@ -9997,14 +9997,14 @@ table น756
   behaviour - 1
 }
 
-table น757
+table ยน757
 {
   northern - 1
   music - 1
   colors - 1
 }
 
-table น758
+table ยน758
 {
   spencer - 1
   sampling - 1
@@ -10019,7 +10019,7 @@ table น758
   armor - 1
 }
 
-table น759
+table ยน759
 {
   sisters - 1
   senators - 1
@@ -10031,7 +10031,7 @@ table น759
   chronicle - 1
 }
 
-table น760
+table ยน760
 {
   tasks - 1
   spoke - 1
@@ -10048,7 +10048,7 @@ table น760
   accredited - 1
 }
 
-table น761
+table ยน761
 {
   tracks - 1
   qatar - 1
@@ -10060,7 +10060,7 @@ table น761
   adelaide - 1
 }
 
-table น762
+table ยน762
 {
   topic - 1
   subsequent - 1
@@ -10076,7 +10076,7 @@ table น762
   description - 1
 }
 
-table น763
+table ยน763
 {
   super - 1
   kenny - 1
@@ -10086,7 +10086,7 @@ table น763
   boulder - 1
 }
 
-table น764
+table ยน764
 {
   train - 1
   trail - 1
@@ -10100,7 +10100,7 @@ table น764
   activated - 1
 }
 
-table น765
+table ยน765
 {
   steel - 1
   shower - 1
@@ -10109,7 +10109,7 @@ table น765
   kerry - 1
 }
 
-table น766
+table ยน766
 {
   scotland - 1
   raises - 1
@@ -10125,7 +10125,7 @@ table น766
   accident - 1
 }
 
-table น767
+table ยน767
 {
   recovered - 1
   qualified - 1
@@ -10140,7 +10140,7 @@ table น767
   allah - 1
 }
 
-table น768
+table ยน768
 {
   spine - 1
   raised - 1
@@ -10150,7 +10150,7 @@ table น768
   firefox - 1
 }
 
-table น769
+table ยน769
 {
   threat - 1
   thread - 1
@@ -10169,7 +10169,7 @@ table น769
   activists - 1
 }
 
-table น770
+table ยน770
 {
   substitute - 1
   shades - 1
@@ -10184,7 +10184,7 @@ table น770
   ability - 1
 }
 
-table น771
+table ยน771
 {
   satin - 1
   railroad - 1
@@ -10198,7 +10198,7 @@ table น771
   allan - 1
 }
 
-table น772
+table ยน772
 {
   trademark - 1
   smooth - 1
@@ -10212,7 +10212,7 @@ table น772
   calculator - 1
 }
 
-table น773
+table ยน773
 {
   struggle - 1
   lawrence - 1
@@ -10222,7 +10222,7 @@ table น773
   candidate - 1
 }
 
-table น774
+table ยน774
 {
   today - 1
   points - 1
@@ -10235,7 +10235,7 @@ table น774
   anxiety - 1
 }
 
-table น775
+table ยน775
 {
   thanks - 1
   subcommittee - 1
@@ -10246,7 +10246,7 @@ table น775
   cycles - 1
 }
 
-table น776
+table ยน776
 {
   pj - 1
   membrane - 1
@@ -10256,7 +10256,7 @@ table น776
   alternatives - 1
 }
 
-table น777
+table ยน777
 {
   swing - 1
   respectively - 1
@@ -10266,7 +10266,7 @@ table น777
   attract - 1
 }
 
-table น778
+table ยน778
 {
   stories - 1
   readers - 1
@@ -10281,7 +10281,7 @@ table น778
   bible - 1
 }
 
-table น779
+table ยน779
 {
   slight - 1
   richards - 1
@@ -10295,7 +10295,7 @@ table น779
   campbell - 1
 }
 
-table น780
+table ยน780
 {
   talking - 1
   milan - 1
@@ -10304,7 +10304,7 @@ table น780
   elvis - 1
 }
 
-table น781
+table ยน781
 {
   sonic - 1
   proxy - 1
@@ -10315,7 +10315,7 @@ table น781
   emergency - 1
 }
 
-table น782
+table ยน782
 {
   ha - 1
   firms - 1
@@ -10325,7 +10325,7 @@ table น782
   americas - 1
 }
 
-table น783
+table ยน783
 {
   sitemap - 1
   protecting - 1
@@ -10337,7 +10337,7 @@ table น783
   cables - 1
 }
 
-table น784
+table ยน784
 {
   tr - 1
   sophisticated - 1
@@ -10358,7 +10358,7 @@ table น784
   alloy - 1
 }
 
-table น785
+table ยน785
 {
   ss - 1
   sound - 1
@@ -10369,7 +10369,7 @@ table น785
   aimed - 1
 }
 
-table น786
+table ยน786
 {
   ranges - 1
   property - 1
@@ -10380,7 +10380,7 @@ table น786
   bingo - 1
 }
 
-table น787
+table ยน787
 {
   testimony - 1
   somewhere - 1
@@ -10393,7 +10393,7 @@ table น787
   align - 1
 }
 
-table น788
+table ยน788
 {
   rt - 1
   participated - 1
@@ -10407,7 +10407,7 @@ table น788
   allow - 1
 }
 
-table น789
+table ยน789
 {
   surprising - 1
   sunday - 1
@@ -10421,7 +10421,7 @@ table น789
   annex - 1
 }
 
-table น790
+table ยน790
 {
   terrace - 1
   style - 1
@@ -10434,7 +10434,7 @@ table น790
   arctic - 1
 }
 
-table น791
+table ยน791
 {
   touch - 1
   theater - 1
@@ -10450,7 +10450,7 @@ table น791
   dangerous - 1
 }
 
-table น792
+table ยน792
 {
   thickness - 1
   terms - 1
@@ -10465,7 +10465,7 @@ table น792
   atlas - 1
 }
 
-table น793
+table ยน793
 {
   special - 1
   remix - 1
@@ -10480,7 +10480,7 @@ table น793
   corresponding - 1
 }
 
-table น794
+table ยน794
 {
   teddy - 1
   stuck - 1
@@ -10490,7 +10490,7 @@ table น794
   automotive - 1
 }
 
-table น795
+table ยน795
 {
   sends - 1
   recognized - 1
@@ -10501,7 +10501,7 @@ table น795
   accessibility - 1
 }
 
-table น796
+table ยน796
 {
   rolls - 1
   prepared - 1
@@ -10513,7 +10513,7 @@ table น796
   ah - 1
 }
 
-table น797
+table ยน797
 {
   reset - 1
   prayers - 1
@@ -10523,7 +10523,7 @@ table น797
   approved - 1
 }
 
-table น798
+table ยน798
 {
   simplified - 1
   realm - 1
@@ -10533,7 +10533,7 @@ table น798
   buses - 1
 }
 
-table น799
+table ยน799
 {
   lightning - 1
   lighting - 1
@@ -10545,7 +10545,7 @@ table น799
   airline - 1
 }
 
-table น800
+table ยน800
 {
   strengthen - 1
   legal - 1
@@ -10554,7 +10554,7 @@ table น800
   activities - 1
 }
 
-table น801
+table ยน801
 {
   possibly - 1
   newton - 1
@@ -10565,7 +10565,7 @@ table น801
   conjunction - 1
 }
 
-table น802
+table ยน802
 {
   towns - 1
   tobacco - 1
@@ -10577,7 +10577,7 @@ table น802
   az - 1
 }
 
-table น803
+table ยน803
 {
   reductions - 1
   oriental - 1
@@ -10590,7 +10590,7 @@ table น803
   caring - 1
 }
 
-table น804
+table ยน804
 {
   sapphire - 1
   missed - 1
@@ -10599,7 +10599,7 @@ table น804
   bubble - 1
 }
 
-table น805
+table ยน805
 {
   through - 1
   massage - 1
@@ -10612,7 +10612,7 @@ table น805
   brilliant - 1
 }
 
-table น806
+table ยน806
 {
   meditation - 1
   debate - 1
@@ -10620,13 +10620,13 @@ table น806
   accommodate - 1
 }
 
-table น807
+table ยน807
 {
   reporter - 1
   registrar - 1
 }
 
-table น808
+table ยน808
 {
   predicted - 1
   panels - 1
@@ -10638,7 +10638,7 @@ table น808
   bluetooth - 1
 }
 
-table น809
+table ยน809
 {
   textiles - 1
   polished - 1
@@ -10648,7 +10648,7 @@ table น809
   achieve - 1
 }
 
-table น810
+table ยน810
 {
   toxic - 1
   spaces - 1
@@ -10660,7 +10660,7 @@ table น810
   around - 1
 }
 
-table น811
+table ยน811
 {
   screenshot - 1
   roster - 1
@@ -10668,7 +10668,7 @@ table น811
   cached - 1
 }
 
-table น812
+table ยน812
 {
   refined - 1
   leeds - 1
@@ -10679,7 +10679,7 @@ table น812
   credit - 1
 }
 
-table น813
+table ยน813
 {
   temperature - 1
   quantum - 1
@@ -10688,7 +10688,7 @@ table น813
   intelligent - 1
 }
 
-table น814
+table ยน814
 {
   study - 1
   rules - 1
@@ -10702,7 +10702,7 @@ table น814
   ala - 1
 }
 
-table น815
+table ยน815
 {
   subject - 1
   snowboard - 1
@@ -10715,7 +10715,7 @@ table น815
   aid - 1
 }
 
-table น816
+table ยน816
 {
   pictures - 1
   navigate - 1
@@ -10729,14 +10729,14 @@ table น816
   accidents - 1
 }
 
-table น817
+table ยน817
 {
   mainstream - 1
   generating - 1
   environmental - 1
 }
 
-table น818
+table ยน818
 {
   textbook - 1
   discretion - 1
@@ -10746,7 +10746,7 @@ table น818
   amongst - 1
 }
 
-table น819
+table ยน819
 {
   strategy - 1
   promoting - 1
@@ -10760,7 +10760,7 @@ table น819
   benchmark - 1
 }
 
-table น820
+table ยน820
 {
   templates - 1
   persons - 1
@@ -10771,7 +10771,7 @@ table น820
   amd - 1
 }
 
-table น821
+table ยน821
 {
   stored - 1
   quebec - 1
@@ -10784,7 +10784,7 @@ table น821
   aberdeen - 1
 }
 
-table น822
+table ยน822
 {
   stores - 1
   speaks - 1
@@ -10798,7 +10798,7 @@ table น822
   and - 1
 }
 
-table น823
+table ยน823
 {
   signals - 1
   seasons - 1
@@ -10809,7 +10809,7 @@ table น823
   customs - 1
 }
 
-table น824
+table ยน824
 {
   tm - 1
   sustainability - 1
@@ -10822,7 +10822,7 @@ table น824
   allergy - 1
 }
 
-table น825
+table ยน825
 {
   system - 1
   sw - 1
@@ -10831,7 +10831,7 @@ table น825
   mic - 1
 }
 
-table น826
+table ยน826
 {
   recently - 1
   pointing - 1
@@ -10852,7 +10852,7 @@ table น826
   big - 1
 }
 
-table น827
+table ยน827
 {
   striking - 1
   silence - 1
@@ -10870,7 +10870,7 @@ table น827
   actual - 1
 }
 
-table น828
+table ยน828
 {
   showcase - 1
   receipt - 1
@@ -10887,7 +10887,7 @@ table น828
   andorra - 1
 }
 
-table น829
+table ยน829
 {
   traditions - 1
   tba - 1
@@ -10899,7 +10899,7 @@ table น829
   discovery - 1
 }
 
-table น830
+table ยน830
 {
   tee - 1
   syndrome - 1
@@ -10918,7 +10918,7 @@ table น830
   ata - 1
 }
 
-table น831
+table ยน831
 {
   spanish - 1
   sarah - 1
@@ -10937,7 +10937,7 @@ table น831
   bankruptcy - 1
 }
 
-table น832
+table ยน832
 {
   satisfied - 1
   ns - 1
@@ -10954,7 +10954,7 @@ table น832
   amber - 1
 }
 
-table น833
+table ยน833
 {
   stationery - 1
   prison - 1
@@ -10969,7 +10969,7 @@ table น833
   configuring - 1
 }
 
-table น834
+table ยน834
 {
   standings - 1
   space - 1
@@ -10988,7 +10988,7 @@ table น834
   atm - 1
 }
 
-table น835
+table ยน835
 {
   seems - 1
   seeks - 1
@@ -11003,7 +11003,7 @@ table น835
   alexander - 1
 }
 
-table น836
+table ยน836
 {
   pentium - 1
   lenders - 1
@@ -11016,7 +11016,7 @@ table น836
   arena - 1
 }
 
-table น837
+table ยน837
 {
   stand - 1
   soa - 1
@@ -11029,7 +11029,7 @@ table น837
   an - 1
 }
 
-table น838
+table ยน838
 {
   temperatures - 1
   statement - 1
@@ -11044,7 +11044,7 @@ table น838
   ali - 1
 }
 
-table น839
+table ยน839
 {
   tel - 1
   samoa - 1
@@ -11062,7 +11062,7 @@ table น839
   airlines - 1
 }
 
-table น840
+table ยน840
 {
   ro - 1
   public - 1
@@ -11078,7 +11078,7 @@ table น840
   any - 1
 }
 
-table น841
+table ยน841
 {
   sources - 1
   soonest - 1
@@ -11098,7 +11098,7 @@ table น841
   aim - 1
 }
 
-table น842
+table ยน842
 {
   totally - 1
   tcp - 1
@@ -11124,7 +11124,7 @@ table น842
   absolute - 1
 }
 
-table น843
+table ยน843
 {
   trackbacks - 1
   pdf - 1
@@ -11142,7 +11142,7 @@ table น843
   aka - 1
 }
 
-table น844
+table ยน844
 {
   supplements - 1
   sandwich - 1
@@ -11162,7 +11162,7 @@ table น844
   advisor - 1
 }
 
-table น845
+table ยน845
 {
   sublime - 1
   socks - 1
@@ -11178,7 +11178,7 @@ table น845
   applicants - 1
 }
 
-table น846
+table ยน846
 {
   strange - 1
   rev - 1
@@ -11204,7 +11204,7 @@ table น846
   aggregate - 1
 }
 
-table น847
+table ยน847
 {
   sep - 1
   pub - 1
@@ -11220,7 +11220,7 @@ table น847
   atmosphere - 1
 }
 
-table น848
+table ยน848
 {
   robot - 1
   panel - 1
@@ -11243,7 +11243,7 @@ table น848
   aerospace - 1
 }
 
-table น849
+table ยน849
 {
   shared - 1
   shaped - 1
@@ -11264,7 +11264,7 @@ table น849
   advertisement - 1
 }
 
-table น850
+table ยน850
 {
   toe - 1
   tea - 1
@@ -11289,7 +11289,7 @@ table น850
   advised - 1
 }
 
-table น851
+table ยน851
 {
   top - 1
   sub - 1
@@ -11315,7 +11315,7 @@ table น851
   actions - 1
 }
 
-table น852
+table ยน852
 {
   tahoe - 1
   std - 1
@@ -11332,7 +11332,7 @@ table น852
   anaheim - 1
 }
 
-table น853
+table ยน853
 {
   thursday - 1
   sum - 1
@@ -11352,7 +11352,7 @@ table น853
   auburn - 1
 }
 
-table น854
+table ยน854
 {
   supporters - 1
   ste - 1
@@ -11375,7 +11375,7 @@ table น854
   amendments - 1
 }
 
-table น855
+table ยน855
 {
   tex - 1
   ten - 1
@@ -11398,7 +11398,7 @@ table น855
   abstracts - 1
 }
 
-table น856
+table ยน856
 {
   tanks - 1
   talks - 1
@@ -11416,7 +11416,7 @@ table น856
   bright - 1
 }
 
-table น857
+table ยน857
 {
   parliament - 1
   gsm - 1
@@ -11425,7 +11425,7 @@ table น857
   agencies - 1
 }
 
-table น858
+table ยน858
 {
   spend - 1
   sox - 1
@@ -11435,7 +11435,7 @@ table น858
   enable - 1
 }
 
-table น859
+table ยน859
 {
   sentence - 1
   seconds - 1
@@ -11451,7 +11451,7 @@ table น859
   adrian - 1
 }
 
-table น860
+table ยน860
 {
   roy - 1
   receptor - 1
@@ -11465,7 +11465,7 @@ table น860
   adverse - 1
 }
 
-table น861
+table ยน861
 {
   sue - 1
   stamp - 1
@@ -11475,7 +11475,7 @@ table น861
   blake - 1
 }
 
-table น862
+table ยน862
 {
   toy - 1
   speak - 1
@@ -11493,7 +11493,7 @@ table น862
   areas - 1
 }
 
-table น863
+table ยน863
 {
   sys - 1
   summit - 1
@@ -11512,7 +11512,7 @@ table น863
   criticism - 1
 }
 
-table น864
+table ยน864
 {
   spray - 1
   son - 1
@@ -11527,7 +11527,7 @@ table น864
   adaptor - 1
 }
 
-table น865
+table ยน865
 {
   ton - 1
   potential - 1
@@ -11541,7 +11541,7 @@ table น865
   celebrities - 1
 }
 
-table น866
+table ยน866
 {
   too - 1
   tom - 1
@@ -11562,7 +11562,7 @@ table น866
   activity - 1
 }
 
-table น867
+table ยน867
 {
   sur - 1
   sally - 1
@@ -11578,7 +11578,7 @@ table น867
   finances - 1
 }
 
-table น868
+table ยน868
 {
   subsidiaries - 1
   large - 1
@@ -11589,7 +11589,7 @@ table น868
   commonwealth - 1
 }
 
-table น869
+table ยน869
 {
   ssl - 1
   quotes - 1
@@ -11601,7 +11601,7 @@ table น869
   blank - 1
 }
 
-table น870
+table ยน870
 {
   stones - 1
   stereo - 1
@@ -11613,7 +11613,7 @@ table น870
   contests - 1
 }
 
-table น871
+table ยน871
 {
   sudden - 1
   research - 1
@@ -11624,7 +11624,7 @@ table น871
   creatures - 1
 }
 
-table น872
+table ยน872
 {
   puzzles - 1
   prior - 1
@@ -11639,7 +11639,7 @@ table น872
   adapter - 1
 }
 
-table น873
+table ยน873
 {
   thermal - 1
   sweet - 1
@@ -11653,7 +11653,7 @@ table น873
   behavioral - 1
 }
 
-table น874
+table ยน874
 {
   spent - 1
   porcelain - 1
@@ -11669,7 +11669,7 @@ table น874
   adapted - 1
 }
 
-table น875
+table ยน875
 {
   technician - 1
   johnston - 1
@@ -11679,7 +11679,7 @@ table น875
   center - 1
 }
 
-table น876
+table ยน876
 {
   of - 1
   nicole - 1
@@ -11689,7 +11689,7 @@ table น876
   abortion - 1
 }
 
-table น877
+table ยน877
 {
   lithuania - 1
   highways - 1
@@ -11702,7 +11702,7 @@ table น877
   briefing - 1
 }
 
-table น878
+table ยน878
 {
   specs - 1
   momentum - 1
@@ -11713,7 +11713,7 @@ table น878
   andreas - 1
 }
 
-table น879
+table ยน879
 {
   proportion - 1
   metal - 1
@@ -11722,7 +11722,7 @@ table น879
   breach - 1
 }
 
-table น880
+table ยน880
 {
   sperm - 1
   selected - 1
@@ -11735,7 +11735,7 @@ table น880
   abraham - 1
 }
 
-table น881
+table ยน881
 {
   theories - 1
   simultaneously - 1
@@ -11746,7 +11746,7 @@ table น881
   commit - 1
 }
 
-table น882
+table ยน882
 {
   loving - 1
   louise - 1
@@ -11760,7 +11760,7 @@ table น882
   assault - 1
 }
 
-table น883
+table ยน883
 {
   thrown - 1
   satisfaction - 1
@@ -11772,7 +11772,7 @@ table น883
   beneath - 1
 }
 
-table น884
+table ยน884
 {
   native - 1
   latino - 1
@@ -11783,7 +11783,7 @@ table น884
   academics - 1
 }
 
-table น885
+table ยน885
 {
   restaurants - 1
   modify - 1
@@ -11799,7 +11799,7 @@ table น885
   blair - 1
 }
 
-table น886
+table ยน886
 {
   settlement - 1
   picked - 1
@@ -11814,7 +11814,7 @@ table น886
   andrews - 1
 }
 
-table น887
+table ยน887
 {
   thinks - 1
   sunglasses - 1
@@ -11823,7 +11823,7 @@ table น887
   genius - 1
 }
 
-table น888
+table ยน888
 {
   tells - 1
   should - 1
@@ -11840,7 +11840,7 @@ table น888
   barbie - 1
 }
 
-table น889
+table ยน889
 {
   surround - 1
   questions - 1
@@ -11851,7 +11851,7 @@ table น889
   common - 1
 }
 
-table น890
+table ยน890
 {
   tissue - 1
   subjects - 1
@@ -11864,7 +11864,7 @@ table น890
   divided - 1
 }
 
-table น891
+table ยน891
 {
   technical - 1
   silent - 1
@@ -11879,7 +11879,7 @@ table น891
   am - 1
 }
 
-table น892
+table ยน892
 {
   pocket - 1
   occupations - 1
@@ -11888,7 +11888,7 @@ table น892
   digest - 1
 }
 
-table น893
+table ยน893
 {
   passengers - 1
   mileage - 1
@@ -11898,7 +11898,7 @@ table น893
   affiliate - 1
 }
 
-table น894
+table ยน894
 {
   screening - 1
   safer - 1
@@ -11912,7 +11912,7 @@ table น894
   accurate - 1
 }
 
-table น895
+table ยน895
 {
   incurred - 1
   evident - 1
@@ -11921,7 +11921,7 @@ table น895
   connecting - 1
 }
 
-table น896
+table ยน896
 {
   superintendent - 1
   slowly - 1
@@ -11931,7 +11931,7 @@ table น896
   armed - 1
 }
 
-table น897
+table ยน897
 {
   sagem - 1
   safari - 1
@@ -11947,7 +11947,7 @@ table น897
   accreditation - 1
 }
 
-table น898
+table ยน898
 {
   mattress - 1
   italia - 1
@@ -11958,7 +11958,7 @@ table น898
   application - 1
 }
 
-table น899
+table ยน899
 {
   throws - 1
   thirty - 1
@@ -11974,7 +11974,7 @@ table น899
   aside - 1
 }
 
-table น900
+table ยน900
 {
   observed - 1
   myself - 1
@@ -11982,7 +11982,7 @@ table น900
   capability - 1
 }
 
-table น901
+table ยน901
 {
   sublimedirectory - 1
   process - 1
@@ -11992,7 +11992,7 @@ table น901
   equity - 1
 }
 
-table น902
+table ยน902
 {
   stuffed - 1
   showers - 1
@@ -12005,7 +12005,7 @@ table น902
   chocolate - 1
 }
 
-table น903
+table ยน903
 {
   threats - 1
   threads - 1
@@ -12018,7 +12018,7 @@ table น903
   airfare - 1
 }
 
-table น904
+table ยน904
 {
   sustainable - 1
   requires - 1
@@ -12031,7 +12031,7 @@ table น904
   greece - 1
 }
 
-table น905
+table ยน905
 {
   sg - 1
   identity - 1
@@ -12039,7 +12039,7 @@ table น905
   brothers - 1
 }
 
-table น906
+table ยน906
 {
   timothy - 1
   rainbow - 1
@@ -12048,14 +12048,14 @@ table น906
   astronomy - 1
 }
 
-table น907
+table ยน907
 {
   guilty - 1
   guide - 1
   cheapest - 1
 }
 
-table น908
+table ยน908
 {
   specialties - 1
   rogers - 1
@@ -12065,7 +12065,7 @@ table น908
   adaptive - 1
 }
 
-table น909
+table ยน909
 {
   number - 1
   fairfield - 1
@@ -12074,7 +12074,7 @@ table น909
   chairman - 1
 }
 
-table น910
+table ยน910
 {
   revenge - 1
   plumbing - 1
@@ -12085,7 +12085,7 @@ table น910
   barnes - 1
 }
 
-table น911
+table ยน911
 {
   position - 1
   partial - 1
@@ -12097,7 +12097,7 @@ table น911
   coated - 1
 }
 
-table น912
+table ยน912
 {
   terminology - 1
   random - 1
@@ -12108,7 +12108,7 @@ table น912
   conditioning - 1
 }
 
-table น913
+table ยน913
 {
   tracker - 1
   squad - 1
@@ -12119,7 +12119,7 @@ table น913
   eligible - 1
 }
 
-table น914
+table ยน914
 {
   toolbar - 1
   spies - 1
@@ -12129,7 +12129,7 @@ table น914
   courtesy - 1
 }
 
-table น915
+table ยน915
 {
   tracked - 1
   performance - 1
@@ -12140,7 +12140,7 @@ table น915
   beach - 1
 }
 
-table น916
+table ยน916
 {
   organic - 1
   interim - 1
@@ -12149,7 +12149,7 @@ table น916
   charity - 1
 }
 
-table น917
+table ยน917
 {
   printer - 1
   mazda - 1
@@ -12160,7 +12160,7 @@ table น917
   culture - 1
 }
 
-table น918
+table ยน918
 {
   resolutions - 1
   md - 1
@@ -12169,7 +12169,7 @@ table น918
   airport - 1
 }
 
-table น919
+table ยน919
 {
   resistance - 1
   remained - 1
@@ -12180,7 +12180,7 @@ table น919
   automatic - 1
 }
 
-table น920
+table ยน920
 {
   symbol - 1
   swift - 1
@@ -12192,7 +12192,7 @@ table น920
   concentration - 1
 }
 
-table น921
+table ยน921
 {
   technology - 1
   printed - 1
@@ -12200,7 +12200,7 @@ table น921
   gasoline - 1
 }
 
-table น922
+table ยน922
 {
   pleased - 1
   mechanism - 1
@@ -12211,14 +12211,14 @@ table น922
   compound - 1
 }
 
-table น923
+table ยน923
 {
   recipients - 1
   hardcore - 1
   administration - 1
 }
 
-table น924
+table ยน924
 {
   processors - 1
   nobody - 1
@@ -12227,14 +12227,14 @@ table น924
   approval - 1
 }
 
-table น925
+table ยน925
 {
   disorders - 1
   computing - 1
   adapters - 1
 }
 
-table น926
+table ยน926
 {
   reveals - 1
   penalty - 1
@@ -12243,7 +12243,7 @@ table น926
   accessed - 1
 }
 
-table น927
+table ยน927
 {
   procurement - 1
   operated - 1
@@ -12251,7 +12251,7 @@ table น927
   drilling - 1
 }
 
-table น928
+table ยน928
 {
   telling - 1
   ra - 1
@@ -12266,7 +12266,7 @@ table น928
   assessing - 1
 }
 
-table น929
+table ยน929
 {
   solaris - 1
   shanghai - 1
@@ -12281,7 +12281,7 @@ table น929
   assessment - 1
 }
 
-table น930
+table ยน930
 {
   raising - 1
   purpose - 1
@@ -12294,7 +12294,7 @@ table น930
   algebra - 1
 }
 
-table น931
+table ยน931
 {
   sensors - 1
   lawsuit - 1
@@ -12304,7 +12304,7 @@ table น931
   announces - 1
 }
 
-table น932
+table ยน932
 {
   specify - 1
   participating - 1
@@ -12315,7 +12315,7 @@ table น932
   beginner - 1
 }
 
-table น933
+table ยน933
 {
   throwing - 1
   quarters - 1
@@ -12325,7 +12325,7 @@ table น933
   century - 1
 }
 
-table น934
+table ยน934
 {
   speaker - 1
   shark - 1
@@ -12338,7 +12338,7 @@ table น934
   alexandria - 1
 }
 
-table น935
+table ยน935
 {
   inspired - 1
   gender - 1
@@ -12352,7 +12352,7 @@ table น935
   announced - 1
 }
 
-table น936
+table ยน936
 {
   shore - 1
   processes - 1
@@ -12368,7 +12368,7 @@ table น936
   controllers - 1
 }
 
-table น937
+table ยน937
 {
   studying - 1
   moore - 1
@@ -12381,7 +12381,7 @@ table น937
   broadcast - 1
 }
 
-table น938
+table ยน938
 {
   species - 1
   showing - 1
@@ -12398,14 +12398,14 @@ table น938
   article - 1
 }
 
-table น939
+table ยน939
 {
   mozilla - 1
   constructed - 1
   annotation - 1
 }
 
-table น940
+table ยน940
 {
   rm - 1
   reform - 1
@@ -12422,7 +12422,7 @@ table น940
   anytime - 1
 }
 
-table น941
+table ยน941
 {
   skating - 1
   sharp - 1
@@ -12436,7 +12436,7 @@ table น941
   achieved - 1
 }
 
-table น942
+table ยน942
 {
   topless - 1
   respond - 1
@@ -12455,7 +12455,7 @@ table น942
   booth - 1
 }
 
-table น943
+table ยน943
 {
   timber - 1
   sucking - 1
@@ -12469,7 +12469,7 @@ table น943
   bbc - 1
 }
 
-table น944
+table ยน944
 {
   threatened - 1
   textile - 1
@@ -12483,7 +12483,7 @@ table น944
   booty - 1
 }
 
-table น945
+table ยน945
 {
   providence - 1
   norwegian - 1
@@ -12494,7 +12494,7 @@ table น945
   cam - 1
 }
 
-table น946
+table ยน946
 {
   similar - 1
   nz - 1
@@ -12506,7 +12506,7 @@ table น946
   ban - 1
 }
 
-table น947
+table ยน947
 {
   suggestions - 1
   square - 1
@@ -12522,7 +12522,7 @@ table น947
   acm - 1
 }
 
-table น948
+table ยน948
 {
   coordinates - 1
   churches - 1
@@ -12530,7 +12530,7 @@ table น948
   aircraft - 1
 }
 
-table น949
+table ยน949
 {
   toddler - 1
   syntax - 1
@@ -12544,7 +12544,7 @@ table น949
   aaa - 1
 }
 
-table น950
+table ยน950
 {
   texture - 1
   shots - 1
@@ -12558,14 +12558,14 @@ table น950
   be - 1
 }
 
-table น951
+table ยน951
 {
   photographer - 1
   intervals - 1
   cap - 1
 }
 
-table น952
+table ยน952
 {
   share - 1
   shape - 1
@@ -12577,14 +12577,14 @@ table น952
   addiction - 1
 }
 
-table น953
+table ยน953
 {
   short - 1
   elevation - 1
   critical - 1
 }
 
-table น954
+table ยน954
 {
   slots - 1
   sixth - 1
@@ -12598,7 +12598,7 @@ table น954
   bar - 1
 }
 
-table น955
+table ยน955
 {
   since - 1
   moves - 1
@@ -12613,7 +12613,7 @@ table น955
   bbw - 1
 }
 
-table น956
+table ยน956
 {
   table - 1
   include - 1
@@ -12626,14 +12626,14 @@ table น956
   absorption - 1
 }
 
-table น957
+table ยน957
 {
   publishing - 1
   prefer - 1
   cheaper - 1
 }
 
-table น958
+table ยน958
 {
   smith - 1
   settled - 1
@@ -12648,7 +12648,7 @@ table น958
   abc - 1
 }
 
-table น959
+table ยน959
 {
   debian - 1
   custody - 1
@@ -12658,7 +12658,7 @@ table น959
   acc - 1
 }
 
-table น960
+table ยน960
 {
   survival - 1
   pacific - 1
@@ -12673,7 +12673,7 @@ table น960
   abu - 1
 }
 
-table น961
+table ยน961
 {
   statutory - 1
   payments - 1
@@ -12686,7 +12686,7 @@ table น961
   bookmarks - 1
 }
 
-table น962
+table ยน962
 {
   techniques - 1
   revision - 1
@@ -12699,7 +12699,7 @@ table น962
   advise - 1
 }
 
-table น963
+table ยน963
 {
   preservation - 1
   philadelphia - 1
@@ -12717,7 +12717,7 @@ table น963
   ace - 1
 }
 
-table น964
+table ยน964
 {
   peoples - 1
   parks - 1
@@ -12727,7 +12727,7 @@ table น964
   africa - 1
 }
 
-table น965
+table ยน965
 {
   nicholas - 1
   mentor - 1
@@ -12738,7 +12738,7 @@ table น965
   begun - 1
 }
 
-table น966
+table ยน966
 {
   rebates - 1
   racks - 1
@@ -12753,7 +12753,7 @@ table น966
   adjustments - 1
 }
 
-table น967
+table ยน967
 {
   tension - 1
   spending - 1
@@ -12768,7 +12768,7 @@ table น967
   bloody - 1
 }
 
-table น968
+table ยน968
 {
   schedule - 1
   pharmacies - 1
@@ -12783,7 +12783,7 @@ table น968
   developer - 1
 }
 
-table น969
+table ยน969
 {
   particularly - 1
   logical - 1
@@ -12793,7 +12793,7 @@ table น969
   attitude - 1
 }
 
-table น970
+table ยน970
 {
   tagged - 1
   health - 1
@@ -12808,7 +12808,7 @@ table น970
   achievements - 1
 }
 
-table น971
+table ยน971
 {
   thereafter - 1
   personal - 1
@@ -12818,7 +12818,7 @@ table น971
   ac - 1
 }
 
-table น972
+table ยน972
 {
   swimming - 1
   suddenly - 1
@@ -12830,7 +12830,7 @@ table น972
   appendix - 1
 }
 
-table น973
+table ยน973
 {
   screens - 1
   marvel - 1
@@ -12839,7 +12839,7 @@ table น973
   coach - 1
 }
 
-table น974
+table ยน974
 {
   strikes - 1
   stayed - 1
@@ -12854,7 +12854,7 @@ table น974
   antonio - 1
 }
 
-table น975
+table ยน975
 {
   remember - 1
   ranch - 1
@@ -12868,7 +12868,7 @@ table น975
   answered - 1
 }
 
-table น976
+table ยน976
 {
   tapes - 1
   ridge - 1
@@ -12879,7 +12879,7 @@ table น976
   bk - 1
 }
 
-table น977
+table ยน977
 {
   ordinance - 1
   emperor - 1
@@ -12887,7 +12887,7 @@ table น977
   amateur - 1
 }
 
-table น978
+table ยน978
 {
   sexuality - 1
   rentals - 1
@@ -12907,7 +12907,7 @@ table น978
   banking - 1
 }
 
-table น979
+table ยน979
 {
   tgp - 1
   seller - 1
@@ -12922,7 +12922,7 @@ table น979
   calling - 1
 }
 
-table น980
+table ยน980
 {
   timing - 1
   surfaces - 1
@@ -12932,7 +12932,7 @@ table น980
   creek - 1
 }
 
-table น981
+table ยน981
 {
   nascar - 1
   members - 1
@@ -12941,7 +12941,7 @@ table น981
   aggressive - 1
 }
 
-table น982
+table ยน982
 {
   reload - 1
   rebound - 1
@@ -12954,7 +12954,7 @@ table น982
   aboriginal - 1
 }
 
-table น983
+table ยน983
 {
   pride - 1
   merchants - 1
@@ -12963,7 +12963,7 @@ table น983
   adventure - 1
 }
 
-table น984
+table ยน984
 {
   tft - 1
   passive - 1
@@ -12974,7 +12974,7 @@ table น984
   arrive - 1
 }
 
-table น985
+table ยน985
 {
   samba - 1
   qualify - 1
@@ -12986,13 +12986,13 @@ table น985
   attitudes - 1
 }
 
-table น986
+table ยน986
 {
   moment - 1
   detailed - 1
 }
 
-table น987
+table ยน987
 {
   plugins - 1
   function - 1
@@ -13001,7 +13001,7 @@ table น987
   abilities - 1
 }
 
-table น988
+table ยน988
 {
   stadium - 1
   retired - 1
@@ -13014,7 +13014,7 @@ table น988
   bailey - 1
 }
 
-table น989
+table ยน989
 {
   secured - 1
   seattle - 1
@@ -13028,7 +13028,7 @@ table น989
   dividend - 1
 }
 
-table น990
+table ยน990
 {
   respondent - 1
   others - 1
@@ -13045,7 +13045,7 @@ table น990
   arthur - 1
 }
 
-table น991
+table ยน991
 {
   satisfy - 1
   presents - 1
@@ -13053,7 +13053,7 @@ table น991
   different - 1
 }
 
-table น992
+table ยน992
 {
   toolkit - 1
   protected - 1
@@ -13064,7 +13064,7 @@ table น992
   california - 1
 }
 
-table น993
+table ยน993
 {
   trailer - 1
   supervision - 1
@@ -13083,7 +13083,7 @@ table น993
   airplane - 1
 }
 
-table น994
+table ยน994
 {
   supported - 1
   sports - 1
@@ -13100,7 +13100,7 @@ table น994
   accommodation - 1
 }
 
-table น995
+table ยน995
 {
   taken - 1
   sales - 1
@@ -13111,7 +13111,7 @@ table น995
   featuring - 1
 }
 
-table น996
+table ยน996
 {
   takes - 1
   pubmed - 1
@@ -13119,7 +13119,7 @@ table น996
   apnic - 1
 }
 
-table น997
+table ยน997
 {
   trained - 1
   rider - 1
@@ -13131,7 +13131,7 @@ table น997
   asthma - 1
 }
 
-table น998
+table ยน998
 {
   tomatoes - 1
   operation - 1
@@ -13141,7 +13141,7 @@ table น998
   affair - 1
 }
 
-table น999
+table ยน999
 {
   relaxation - 1
   memorabilia - 1
